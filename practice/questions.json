@@ -1,0 +1,1448 @@
+{
+  "version": 2,
+  "title": "PERT Reading Practice",
+  "skills": [
+    {
+      "id": "main-idea",
+      "name": "Main idea & summary"
+    },
+    {
+      "id": "evidence",
+      "name": "Evidence & assertions"
+    },
+    {
+      "id": "vocab-context",
+      "name": "Vocabulary in context"
+    },
+    {
+      "id": "tone-structure",
+      "name": "Tone & structure"
+    },
+    {
+      "id": "purpose",
+      "name": "Author's purpose"
+    },
+    {
+      "id": "relationships",
+      "name": "Sentence relationships"
+    },
+    {
+      "id": "character",
+      "name": "Character & motivation"
+    },
+    {
+      "id": "compare",
+      "name": "Comparing texts"
+    },
+    {
+      "id": "fact-opinion",
+      "name": "Fact vs. opinion"
+    },
+    {
+      "id": "rhetoric",
+      "name": "Reasoning & rhetoric"
+    }
+  ],
+  "questions": [
+    {
+      "id": "mi-01",
+      "skill": "main-idea",
+      "passage": "Honeybees communicate the location of food through a behavior called the waggle dance. A worker returns to the hive and moves in a figure-eight pattern while vibrating her abdomen. The angle of the dance relative to the sun tells other bees the direction of the flowers, and the length of the waggle run indicates distance. Scientists have confirmed that nestmates who watch the dance can fly to the same patch of blooms without being led there.",
+      "stem": "What is the main idea of this passage?",
+      "choices": [
+        "Honeybees use a waggle dance to tell other bees where food is located.",
+        "Bees prefer flowers that are close to the hive.",
+        "Scientists disagree about how insects communicate.",
+        "The sun is important to all animals that forage for food."
+      ],
+      "correct": 0,
+      "explanation": "Every sentence develops how the waggle dance shares direction and distance. The other choices are either too narrow or not supported."
+    },
+    {
+      "id": "mi-02",
+      "skill": "main-idea",
+      "passage": "Many cities have replaced some paved parking lots with permeable pavement—materials that allow rainwater to soak into the ground instead of rushing into storm drains. The change reduces street flooding after heavy storms and filters pollutants before water reaches local rivers. Although permeable pavement can cost more to install, city planners argue that lower flood-repair bills make it worthwhile over time.",
+      "stem": "Which statement best summarizes the passage?",
+      "choices": [
+        "Permeable pavement is always cheaper than regular pavement.",
+        "Cities use permeable pavement to manage stormwater and reduce long-term costs.",
+        "Storm drains are no longer needed in modern cities.",
+        "Polluted rivers are mainly caused by factory waste."
+      ],
+      "correct": 1,
+      "explanation": "The passage focuses on why cities adopt permeable pavement: flood control, filtering, and long-term savings despite higher install cost."
+    },
+    {
+      "id": "mi-03",
+      "skill": "main-idea",
+      "passage": "When the first public libraries opened in the nineteenth century, critics claimed free books would discourage hard work. Supporters replied that shared collections gave working people access to knowledge once reserved for the wealthy. Over time, libraries also became quiet study spaces, job-search centers, and community meeting halls. Today their role is less about proving a social theory and more about providing practical tools for everyday life.",
+      "stem": "The passage is mainly about",
+      "choices": [
+        "why critics disliked free books in the 1800s.",
+        "how public libraries’ purpose has broadened since they began.",
+        "how wealthy readers lost exclusive access to literature.",
+        "why modern libraries no longer lend books."
+      ],
+      "correct": 1,
+      "explanation": "The passage traces libraries from an early debate to today’s wider practical roles—the central thread is change and broadening purpose."
+    },
+    {
+      "id": "mi-04",
+      "skill": "main-idea",
+      "passage": "Sleep is not a passive shutdown of the brain. During deep sleep, the brain clears waste products that build up during waking hours. During REM sleep, it consolidates memories and processes emotions. People who regularly cut sleep short may feel productive for a while, but research links chronic sleep loss to weaker attention, poorer learning, and higher long-term health risks.",
+      "stem": "Which title best fits this passage?",
+      "choices": [
+        "Why REM Sleep Is More Important Than Deep Sleep",
+        "How the Brain Stays Active and Essential During Sleep",
+        "Simple Tips for Falling Asleep Faster",
+        "The History of Sleep Research Laboratories"
+      ],
+      "correct": 1,
+      "explanation": "The passage emphasizes that sleep is active and necessary for brain and health functions—not tips, history, or ranking sleep stages."
+    },
+    {
+      "id": "ev-01",
+      "skill": "evidence",
+      "passage": "Urban community gardens do more than grow vegetables. In one neighborhood survey, 70% of gardeners said they knew more neighbors after joining a plot. Garden plots also replaced vacant lots that had attracted illegal dumping. City data showed fewer dumping complaints on blocks with new gardens than on similar blocks without them.",
+      "stem": "Which detail best supports the claim that community gardens can improve neighborhood safety and cleanliness?",
+      "choices": [
+        "Gardeners grow vegetables.",
+        "70% of gardeners knew more neighbors after joining.",
+        "Blocks with new gardens had fewer dumping complaints than similar blocks without them.",
+        "Vacant lots exist in many cities."
+      ],
+      "correct": 2,
+      "explanation": "Fewer dumping complaints is direct evidence about cleanliness/safety-related conditions. Neighbor familiarity supports community, not dumping."
+    },
+    {
+      "id": "ev-02",
+      "skill": "evidence",
+      "passage": "A school district claimed that its new after-school tutoring program raised math scores. Critics noted that the program was offered only at schools that already had strong parent involvement. They also pointed out that statewide math scores rose slightly in the same year, even at schools without the program.",
+      "stem": "Which statement most clearly challenges the district’s claim?",
+      "choices": [
+        "Tutoring can help students who struggle in math.",
+        "Parent involvement is generally positive for schools.",
+        "Scores also rose at schools that did not offer the program, and the program schools already had strong parent involvement.",
+        "After-school programs are popular with families."
+      ],
+      "correct": 2,
+      "explanation": "The critics’ points suggest other explanations for score gains, weakening the claim that the tutoring caused the improvement."
+    },
+    {
+      "id": "ev-03",
+      "skill": "evidence",
+      "passage": "Marine biologists argue that restoring oyster reefs can protect shorelines. Oysters cluster on reefs that blunt wave energy before it hits the coast. In one bay study, shoreline erosion behind restored reefs was about half the rate measured on nearby unprotected stretches over three years.",
+      "stem": "The bay study is used in the passage primarily to",
+      "choices": [
+        "prove that oysters are a popular seafood.",
+        "provide evidence that restored reefs may reduce shoreline erosion.",
+        "show that all coastal cities should ban seawalls.",
+        "explain how oysters filter water."
+      ],
+      "correct": 1,
+      "explanation": "The study’s erosion comparison functions as supporting evidence for the biologists’ shoreline-protection argument."
+    },
+    {
+      "id": "ev-04",
+      "skill": "evidence",
+      "passage": "“Students learn best when they teach others,” Ms. Ruiz told the faculty. She described a semester in which seniors tutored freshmen in algebra twice a week. By final exams, the freshmen’s average algebra score had risen twelve points from the previous year’s class, and several seniors reported understanding the material more deeply.",
+      "stem": "Which sentence from the passage most directly supports Ms. Ruiz’s claim?",
+      "choices": [
+        "Ms. Ruiz spoke to the faculty.",
+        "Seniors tutored freshmen in algebra twice a week.",
+        "Freshmen’s average algebra scores rose twelve points from the previous year, and seniors understood the material more deeply.",
+        "Algebra is required for graduation."
+      ],
+      "correct": 2,
+      "explanation": "Improved freshman scores plus seniors’ deeper understanding are outcomes that support “learn best when they teach others.”"
+    },
+    {
+      "id": "vc-01",
+      "skill": "vocab-context",
+      "passage": "After months of negotiation, the mayor finally secured a tentative agreement with the transit workers. The deal was fragile—either side could still walk away—but it was the first sign that a strike might be avoided.",
+      "stem": "As used in the passage, “tentative” most nearly means",
+      "choices": [
+        "permanent and legally binding",
+        "uncertain and not yet final",
+        "secret and illegal",
+        "popular with voters"
+      ],
+      "correct": 1,
+      "explanation": "“Fragile” and “either side could still walk away” signal that the agreement is provisional, not final."
+    },
+    {
+      "id": "vc-02",
+      "skill": "vocab-context",
+      "passage": "The novelist’s early chapters are dense with detail, but the final act is surprisingly austere: few descriptions, short sentences, and long stretches of silence between characters. Readers who loved the lush opening sometimes feel abandoned by the spare ending.",
+      "stem": "In this context, “austere” most nearly means",
+      "choices": [
+        "harshly unfair",
+        "plain and severely simple",
+        "humorous and light",
+        "confusing and disorganized"
+      ],
+      "correct": 1,
+      "explanation": "The contrast with “dense”/“lush” and the mention of few descriptions and silence point to severe simplicity."
+    },
+    {
+      "id": "vc-03",
+      "skill": "vocab-context",
+      "passage": "When the drought entered its third year, the reservoir became a mirror of cracked mud. Boats sat stranded like forgotten toys. Officials called the situation “unprecedented,” a word that did little to fill kitchen faucets.",
+      "stem": "The phrase “a mirror of cracked mud” is best understood as",
+      "choices": [
+        "a literal claim that the reservoir reflected images perfectly.",
+        "figurative language stressing how dry and empty the reservoir looked.",
+        "evidence that officials caused the drought.",
+        "a scientific measurement of water depth."
+      ],
+      "correct": 1,
+      "explanation": "The image is figurative—emphasizing barren dryness—not a literal optical or scientific claim."
+    },
+    {
+      "id": "vc-04",
+      "skill": "vocab-context",
+      "passage": "Coach Nguyen’s halftime speech was brief but pointed. She did not rant; she named two missed assignments and asked whether the team still wanted the season they had talked about in August. The players left the locker room subdued but focused.",
+      "stem": "As used here, “pointed” most nearly means",
+      "choices": [
+        "sharp and deliberately direct",
+        "confusing and vague",
+        "long and ceremonial",
+        "friendly and joking"
+      ],
+      "correct": 0,
+      "explanation": "She names specific problems without ranting; “pointed” means direct and sharp in focus."
+    },
+    {
+      "id": "ts-01",
+      "skill": "tone-structure",
+      "passage": "Oh, wonderful. Another software update that rearranges every button I had finally learned. Progress, they call it. I call it an unpaid part-time job in button archaeology.",
+      "stem": "The tone of this passage is best described as",
+      "choices": [
+        "grateful and admiring",
+        "sarcastic and frustrated",
+        "fearful and urgent",
+        "neutral and technical"
+      ],
+      "correct": 1,
+      "explanation": "“Oh, wonderful” and “button archaeology” signal sarcasm aimed at annoying change."
+    },
+    {
+      "id": "ts-02",
+      "skill": "tone-structure",
+      "passage": "First, rinse the beans. Next, soak them overnight. In the morning, simmer them with onion and bay leaf until tender. Finally, season with salt only after they soften—salting too early can toughen the skins.",
+      "stem": "How is this passage organized?",
+      "choices": [
+        "Compare and contrast",
+        "Problem and solution",
+        "Chronological / step-by-step process",
+        "Cause and effect only"
+      ],
+      "correct": 2,
+      "explanation": "Signal words First/Next/In the morning/Finally show a sequence of steps."
+    },
+    {
+      "id": "ts-03",
+      "skill": "tone-structure",
+      "passage": "The old pier groaned under our shoes. Salt wind tugged at our jackets. Below, dark water slapped the pilings in a slow, steady rhythm, as if the bay itself were breathing.",
+      "stem": "The author’s word choices primarily create a mood of",
+      "choices": [
+        "cheerful celebration",
+        "quiet, slightly eerie atmosphere",
+        "angry confrontation",
+        "comic clumsiness"
+      ],
+      "correct": 1,
+      "explanation": "“Groaned,” “dark water,” and “as if the bay itself were breathing” build a hushed, eerie mood."
+    },
+    {
+      "id": "ts-04",
+      "skill": "tone-structure",
+      "passage": "Electric cars produce no tailpipe emissions. On the other hand, manufacturing their batteries currently requires mining that can damage landscapes and use large amounts of water. Any honest climate plan has to weigh both sides.",
+      "stem": "The phrase “On the other hand” signals that the author is about to",
+      "choices": [
+        "repeat the same idea in new words",
+        "introduce a contrasting point",
+        "tell a personal story",
+        "ask the reader a riddle"
+      ],
+      "correct": 1,
+      "explanation": "“On the other hand” is a classic contrast transition between benefits and drawbacks."
+    },
+    {
+      "id": "pu-01",
+      "skill": "purpose",
+      "passage": "Before you hike the ridge trail this weekend, check the park alert page. Overnight storms have left loose rock on the upper switchbacks. Wear sturdy shoes, carry water, and turn back if thunder begins—ridges are no place to wait out lightning.",
+      "stem": "The author’s primary purpose is to",
+      "choices": [
+        "entertain readers with a storm story",
+        "persuade readers to ban hiking",
+        "warn and advise hikers about current trail hazards",
+        "describe the geological history of the ridge"
+      ],
+      "correct": 2,
+      "explanation": "Alerts, gear advice, and lightning guidance show a practical warning/advice purpose."
+    },
+    {
+      "id": "pu-02",
+      "skill": "purpose",
+      "passage": "Imagine a coastline where restored marshes buffer homes from storm surge, oyster reefs clean the water, and fishing improves because young fish have places to hide. That future is not fantasy—it is what several Gulf communities are building right now. We should fund more of these projects before the next hurricane season.",
+      "stem": "The author mainly intends to",
+      "choices": [
+        "explain how oysters reproduce",
+        "persuade readers to support funding for coastal restoration",
+        "criticize all fishing practices",
+        "provide a neutral dictionary definition of “marsh”"
+      ],
+      "correct": 1,
+      "explanation": "Vivid benefits plus “We should fund…” show persuasion toward supporting restoration funding."
+    },
+    {
+      "id": "pu-03",
+      "skill": "purpose",
+      "passage": "Photosynthesis is the process by which green plants convert light energy into chemical energy. Chlorophyll in plant cells absorbs sunlight. Using that energy, plants combine carbon dioxide and water to make glucose and release oxygen.",
+      "stem": "This passage is primarily meant to",
+      "choices": [
+        "inform readers about how photosynthesis works",
+        "persuade readers to become vegetarians",
+        "entertain with a fictional plant adventure",
+        "argue that oxygen is harmful"
+      ],
+      "correct": 0,
+      "explanation": "The passage gives a clear factual explanation without persuasive or narrative goals."
+    },
+    {
+      "id": "pu-04",
+      "skill": "purpose",
+      "passage": "Maya stood in the wings, script pages trembling in her hands. She had practiced the monologue a hundred times at home, but the stage lights felt like a second audience. When her cue came, she stepped out anyway—because wanting the part meant risking the silence after the first line.",
+      "stem": "The author most likely wrote this passage to",
+      "choices": [
+        "teach stage-lighting safety rules",
+        "depict a character’s nervous courage in a dramatic moment",
+        "argue that school plays should be canceled",
+        "explain how to memorize scripts scientifically"
+      ],
+      "correct": 1,
+      "explanation": "The focus is Maya’s feelings and choice—narrative characterization, not instruction or argument."
+    },
+    {
+      "id": "re-01",
+      "skill": "relationships",
+      "passage": "The museum stayed free on Thursdays. As a result, families who could not afford weekend tickets began filling the galleries after school.",
+      "stem": "The second sentence relates to the first by showing",
+      "choices": [
+        "a cause and its effect",
+        "a contradiction",
+        "a definition",
+        "a random detail unrelated to cost"
+      ],
+      "correct": 0,
+      "explanation": "“As a result” marks an effect (families attending) of the cause (free Thursdays)."
+    },
+    {
+      "id": "re-02",
+      "skill": "relationships",
+      "passage": "Although the recipe looked complicated, Jamal finished the sauce in twenty minutes. He had mise en place—every ingredient chopped and measured—before he turned on the stove.",
+      "stem": "The word “Although” signals that",
+      "choices": [
+        "the two ideas are identical",
+        "a contrast is coming between expectation and what happened",
+        "the author will change the topic completely",
+        "Jamal disliked cooking"
+      ],
+      "correct": 1,
+      "explanation": "“Although” sets up contrast: complicated appearance vs. quick success."
+    },
+    {
+      "id": "re-03",
+      "skill": "relationships",
+      "passage": "The bridge was closed for repairs. Commuters therefore took the ferry, which added fifteen minutes to the morning trip but avoided the jammed side streets.",
+      "stem": "Which word could replace “therefore” without changing the relationship between the sentences?",
+      "choices": [
+        "however",
+        "meanwhile",
+        "consequently",
+        "unless"
+      ],
+      "correct": 2,
+      "explanation": "“Therefore” and “consequently” both show result. “However” would contrast; the others don’t fit."
+    },
+    {
+      "id": "re-04",
+      "skill": "relationships",
+      "passage": "Lena wanted to adopt a dog. She visited two shelters. She filled out an application. She waited three weeks for a home visit. Only then did she bring home a quiet terrier mix named Pepper.",
+      "stem": "The short sentences at the beginning mainly create a sense of",
+      "choices": [
+        "a step-by-step sequence leading to adoption",
+        "an unsolved mystery",
+        "anger at shelters",
+        "a comparison of two dogs"
+      ],
+      "correct": 0,
+      "explanation": "The stacked actions and “Only then” emphasize sequence toward the outcome."
+    },
+    {
+      "id": "ch-01",
+      "skill": "character",
+      "passage": "Every afternoon, Mr. Ortiz swept the sidewalk in front of his tiny grocery, then set out a bowl of water for the neighborhood dogs. When a delivery truck blocked the hydrant, he did not shout; he tapped the driver’s window, pointed, and waited until the truck moved. Children who forgot lunch money still left with an apple and a promise to pay tomorrow.",
+      "stem": "Based on the passage, Mr. Ortiz is best described as",
+      "choices": [
+        "impatient and greedy",
+        "quiet, fair-minded, and kind",
+        "fearful of his customers",
+        "interested only in large profits"
+      ],
+      "correct": 1,
+      "explanation": "His habits—helping animals, calm problem-solving, trusting kids—show kindness and fairness."
+    },
+    {
+      "id": "ch-02",
+      "skill": "character",
+      "passage": "Nadia kept checking the clock during the group project meeting. She had already drafted the slides at home and wanted only to assign speaking parts. When classmates suggested a new approach, she smiled tightly and said, “We don’t have time to start over.” Her notes were flawless; her patience was not.",
+      "stem": "What motivates Nadia’s behavior in the meeting?",
+      "choices": [
+        "A desire to dominate by insulting others",
+        "Anxiety about finishing on time and sticking to her prepared plan",
+        "Curiosity about every new idea",
+        "Indifference to the project’s grade"
+      ],
+      "correct": 1,
+      "explanation": "Clock-watching, pre-made slides, and rejecting restart ideas point to time pressure and attachment to her plan."
+    },
+    {
+      "id": "ch-03",
+      "skill": "character",
+      "passage": "In the story, Eli volunteers to take the night watch even though he hates the cold. He tells no one that his younger sister is sleeping in the next tent and that he will not rest until he hears her breathe evenly. When the wind rises, he walks the perimeter twice as often as required.",
+      "stem": "Eli’s actions most strongly suggest that he is",
+      "choices": [
+        "seeking praise from the group leader",
+        "protective and privately devoted to his sister’s safety",
+        "trying to avoid all responsibility",
+        "unaware of the weather"
+      ],
+      "correct": 1,
+      "explanation": "His extra vigilance and unspoken concern for his sister reveal protective motivation."
+    },
+    {
+      "id": "ch-04",
+      "skill": "character",
+      "passage": "“I don’t need help,” Tara snapped, yanking the suitcase up another stair. Halfway, she stopped, exhaled, and laughed at herself. “Okay. Maybe one hand on the other side.” Her brother took a handle without commenting, and they finished the climb together.",
+      "stem": "Which word best describes Tara by the end of the passage?",
+      "choices": [
+        "Stubborn at first, then willing to accept help",
+        "Cruel and unchanging",
+        "Confused about where she lives",
+        "Dependent on praise"
+      ],
+      "correct": 0,
+      "explanation": "She begins refusing help, then softens and cooperates—showing a shift from stubbornness to acceptance."
+    },
+    {
+      "id": "co-01",
+      "skill": "compare",
+      "passage": "Passage A: City leaders should expand bike lanes because they reduce traffic and encourage exercise. Cars will always dominate if we never give riders safe space.\n\nPassage B: Bike lanes sound appealing, but on narrow downtown streets they can remove needed parking for elderly residents who cannot walk long distances. Any expansion should be paired with shuttle service.",
+      "stem": "How do the two passages mainly differ?",
+      "choices": [
+        "A opposes exercise; B supports it.",
+        "A argues for expanding bike lanes; B urges caution and added support for people who rely on parking.",
+        "Both demand an immediate ban on cars.",
+        "B ignores elderly residents while A focuses on them."
+      ],
+      "correct": 1,
+      "explanation": "A pushes expansion for traffic/exercise benefits; B raises a conflicting need and a condition for expansion."
+    },
+    {
+      "id": "co-02",
+      "skill": "compare",
+      "passage": "Passage A: The invention of the printing press spread ideas faster than handwritten copying ever could. Literacy rose as books became cheaper.\n\nPassage B: The printing press also made it easier to spread rumors and political attacks. Speed of publication did not guarantee accuracy.",
+      "stem": "Both passages agree that the printing press",
+      "choices": [
+        "had no effect on society",
+        "changed how widely and quickly written material could circulate",
+        "eliminated all false information",
+        "was mainly used for cooking recipes"
+      ],
+      "correct": 1,
+      "explanation": "A stresses faster spread of ideas; B stresses faster spread of rumors—both assume rapid, wide circulation."
+    },
+    {
+      "id": "co-03",
+      "skill": "compare",
+      "passage": "Text 1: Keep a gratitude journal. Each night, write three specific things that went well. The habit trains attention toward what is working.\n\nText 2: Forced positivity can backfire. If you are grieving or angry, being told to “just list blessings” may feel dismissive. Honest naming of hard feelings matters too.",
+      "stem": "Text 2 relates to Text 1 by",
+      "choices": [
+        "repeating Text 1 with different examples",
+        "offering a caution that complicates Text 1’s advice",
+        "proving journaling is impossible",
+        "changing the subject to sports"
+      ],
+      "correct": 1,
+      "explanation": "Text 2 doesn’t deny journaling outright; it warns that pressured positivity can dismiss real feelings."
+    },
+    {
+      "id": "co-04",
+      "skill": "compare",
+      "passage": "Speaker 1: School should start later so teenagers can get enough sleep. Biology is not a choice.\n\nSpeaker 2: Later bells conflict with parents’ work schedules and after-school sports. Sleep matters, but the schedule has to work for families and programs too.",
+      "stem": "What is the primary point of disagreement?",
+      "choices": [
+        "Whether teenagers need sleep at all",
+        "Whether later start times are worth the practical trade-offs for families and activities",
+        "Whether sports should be banned",
+        "Whether parents should stop working"
+      ],
+      "correct": 1,
+      "explanation": "Both value sleep implicitly; they clash over whether later starts’ benefits outweigh scheduling costs."
+    },
+    {
+      "id": "fo-01",
+      "skill": "fact-opinion",
+      "passage": "Mount Everest’s summit is 8,849 meters above sea level. Climbing it is the most inspiring challenge a person can attempt. More than 6,000 people have reached the top since the first successful ascent in 1953.",
+      "stem": "Which sentence is an opinion rather than a fact?",
+      "choices": [
+        "Mount Everest’s summit is 8,849 meters above sea level.",
+        "Climbing it is the most inspiring challenge a person can attempt.",
+        "More than 6,000 people have reached the top since 1953.",
+        "The first successful ascent was in 1953."
+      ],
+      "correct": 1,
+      "explanation": "“Most inspiring” is a value judgment; the others are verifiable claims."
+    },
+    {
+      "id": "fo-02",
+      "skill": "fact-opinion",
+      "passage": "The city’s new recycling program collected 1,200 tons of cardboard in March. Residents should be proud of that effort. Paper mills paid the city for the material, offsetting collection costs.",
+      "stem": "Which statement expresses an opinion?",
+      "choices": [
+        "The program collected 1,200 tons of cardboard in March.",
+        "Residents should be proud of that effort.",
+        "Paper mills paid the city for the material.",
+        "Collection costs were offset."
+      ],
+      "correct": 1,
+      "explanation": "“Should be proud” judges what people ought to feel; the rest report measurable events."
+    },
+    {
+      "id": "fo-03",
+      "skill": "fact-opinion",
+      "passage": "Water freezes at 0°C at standard atmospheric pressure. Ice skating is more elegant than roller skating. Outdoor rinks may close during unseasonably warm winters.",
+      "stem": "Which of the following is a fact?",
+      "choices": [
+        "Ice skating is more elegant than roller skating.",
+        "Water freezes at 0°C at standard atmospheric pressure.",
+        "Everyone prefers outdoor rinks.",
+        "Warm winters are always pleasant."
+      ],
+      "correct": 1,
+      "explanation": "The freezing point is an established scientific fact; elegance and preferences are opinions."
+    },
+    {
+      "id": "fo-04",
+      "skill": "fact-opinion",
+      "passage": "A reviewer wrote: “The documentary runs 90 minutes and interviews twelve scientists. It is the finest climate film of the decade. Ticket sales doubled in its second week.”",
+      "stem": "Which part of the review is clearly opinion?",
+      "choices": [
+        "The documentary runs 90 minutes.",
+        "It interviews twelve scientists.",
+        "It is the finest climate film of the decade.",
+        "Ticket sales doubled in its second week."
+      ],
+      "correct": 2,
+      "explanation": "“Finest … of the decade” is a subjective ranking; length, interview count, and sales can be checked."
+    },
+    {
+      "id": "rh-01",
+      "skill": "rhetoric",
+      "passage": "We must ban all student phones at school. Last Tuesday, one student dropped a phone and cracked its screen. Clearly, phones are destroying education.",
+      "stem": "What is the main weakness in this argument?",
+      "choices": [
+        "It uses a single minor incident to justify a sweeping conclusion.",
+        "It provides too much statistical evidence.",
+        "It refuses to mention phones at all.",
+        "It is written as a poem."
+      ],
+      "correct": 0,
+      "explanation": "One cracked screen does not prove phones are “destroying education”—a hasty generalization."
+    },
+    {
+      "id": "rh-02",
+      "skill": "rhetoric",
+      "passage": "Either we cut the arts budget entirely, or the school will go bankrupt next month. There is no other path.",
+      "stem": "This argument is flawed mainly because it",
+      "choices": [
+        "presents only two extreme options and ignores other possibilities",
+        "uses too many technical terms",
+        "supports arts programs too strongly",
+        "relies on a personal diary"
+      ],
+      "correct": 0,
+      "explanation": "This is a false dilemma: budgets usually have more options than “cut all arts” or “bankruptcy.”"
+    },
+    {
+      "id": "rh-03",
+      "skill": "rhetoric",
+      "passage": "Dr. Patel has studied coastal erosion for twenty years and published peer-reviewed measurements of beach loss after major storms. She recommends preserving dunes. A talk-show guest who visited the beach once says dunes are “ugly” and unnecessary.",
+      "stem": "A careful reader should give more weight to Dr. Patel’s recommendation primarily because",
+      "choices": [
+        "she uses flattering language",
+        "her conclusion is backed by long study and relevant evidence, unlike the guest’s personal taste",
+        "talk-show guests are never correct",
+        "dunes are always popular with tourists"
+      ],
+      "correct": 1,
+      "explanation": "Credibility here comes from expertise and evidence, not from dismissing all guests or assuming popularity."
+    },
+    {
+      "id": "rh-04",
+      "skill": "rhetoric",
+      "passage": "“Everyone knows the new cafeteria menu is a disaster,” Sam said. “If you like it, you must not care about students.”",
+      "stem": "Sam’s reply to people who like the menu is an example of",
+      "choices": [
+        "a fair summary of nutrition data",
+        "an attack on the person rather than a response to their reasons",
+        "a careful compromise",
+        "a scientific experiment"
+      ],
+      "correct": 1,
+      "explanation": "Claiming fans “must not care about students” attacks motives instead of addressing arguments—ad hominem / loaded framing. “Everyone knows” is also empty crowd appeal."
+    },
+    {
+      "id": "mi-05",
+      "skill": "main-idea",
+      "passage": "Coral reefs occupy a tiny fraction of the ocean floor but support an enormous share of marine species. They also protect coasts and support fishing and tourism jobs. When reefs bleach from prolonged heat, those benefits shrink quickly. That is why reef monitoring has become a priority for island nations.",
+      "stem": "Which sentence best states the central idea?",
+      "choices": [
+        "Island nations enjoy tourism.",
+        "Coral reefs are unusually important ecosystems whose decline threatens many benefits, prompting careful monitoring.",
+        "All ocean floors are covered with coral.",
+        "Fishing should be banned worldwide."
+      ],
+      "correct": 1,
+      "explanation": "The passage links reefs’ outsized importance, the impact of bleaching, and why monitoring matters."
+    },
+    {
+      "id": "vc-05",
+      "skill": "vocab-context",
+      "passage": "The committee’s praise was lukewarm: the proposal was “interesting” and “worth revisiting later,” which everyone understood as a polite refusal.",
+      "stem": "In this context, “lukewarm” most nearly means",
+      "choices": [
+        "hot and enthusiastic",
+        "mild and unenthusiastic",
+        "angry and loud",
+        "confused and silent"
+      ],
+      "correct": 1,
+      "explanation": "Polite delay language shows halfhearted, unenthusiastic approval—not real support."
+    },
+    {
+      "id": "pu-05",
+      "skill": "purpose",
+      "passage": "On April 12, the science club will host a night sky watch behind the gym. Bring a jacket and, if you have one, binoculars. If clouds roll in, we will move to the planetarium for a virtual tour instead. Sign up on the board by Friday.",
+      "stem": "The main purpose of this passage is to",
+      "choices": [
+        "persuade readers that astronomy is superior to sports",
+        "inform readers about an event’s time, place, gear, and backup plan",
+        "narrate a myth about the constellations",
+        "argue against virtual tours"
+      ],
+      "correct": 1,
+      "explanation": "It delivers practical event information: when, where, what to bring, contingency, and signup."
+    },
+    {
+      "id": "rh-05",
+      "skill": "rhetoric",
+      "passage": "A company advertisement states: “Our vitamin gummy is made with real fruit flavors. Therefore, it cures fatigue, stress, and lack of focus for every busy adult.”",
+      "stem": "Which critique is most reasonable?",
+      "choices": [
+        "Fruit flavors automatically prove a medical cure for everyone.",
+        "The ad leaps from a marketing detail (flavors) to sweeping health claims without solid evidence.",
+        "All advertisements are illegal.",
+        "Busy adults never feel fatigue."
+      ],
+      "correct": 1,
+      "explanation": "“Real fruit flavors” does not logically establish broad cure-all results—unsupported leap."
+    },
+    {
+      "id": "ts-05",
+      "skill": "tone-structure",
+      "passage": "We regret to inform you that your application was not selected for funding this cycle. Competition was unusually strong. You are welcome to revise and apply again in the fall.",
+      "stem": "The tone of this notice is best described as",
+      "choices": [
+        "mocking and cruel",
+        "formal, courteous, and restrained",
+        "ecstatic and celebratory",
+        "casual and joking"
+      ],
+      "correct": 1,
+      "explanation": "Polite regret, neutral explanation, and an invitation to reapply create a formal, courteous tone."
+    },
+    {
+      "id": "fo-05",
+      "skill": "fact-opinion",
+      "passage": "The bridge opened in 1998. It carries an average of 40,000 vehicles a day. It is far more beautiful than the old steel span it replaced. Maintenance crews inspect the cables twice a year.",
+      "stem": "Which sentence cannot be verified as a factual claim in the same way as the others?",
+      "choices": [
+        "The bridge opened in 1998.",
+        "It carries an average of 40,000 vehicles a day.",
+        "It is far more beautiful than the old steel span it replaced.",
+        "Maintenance crews inspect the cables twice a year."
+      ],
+      "correct": 2,
+      "explanation": "Beauty is subjective; opening year, traffic averages, and inspection schedules are checkable."
+    },
+    {
+      "id": "mi-06",
+      "skill": "main-idea",
+      "passage": "Before refrigeration, coastal towns packed fish in ice cut from winter lakes. The ice trade employed cutters, haulers, and warehouse workers, and it linked rural lakes to city markets. When mechanical freezers spread in the twentieth century, the seasonal ice industry faded, but the older system had already shown how a simple technology could reshape diets and jobs.",
+      "stem": "What is the main idea of this passage?",
+      "choices": [
+        "Mechanical freezers were invented in coastal towns.",
+        "The historical ice trade mattered because it connected places, jobs, and food supply before modern refrigeration.",
+        "Lake ice is safer to eat than ocean ice.",
+        "Warehouse workers preferred summer employment."
+      ],
+      "correct": 1,
+      "explanation": "The passage centers on how the ice trade worked and why it mattered before freezers replaced it—not on minor details about invention dates or preferences."
+    },
+    {
+      "id": "mi-07",
+      "skill": "main-idea",
+      "passage": "Podcasts lower the barrier to publishing audio. A laptop and microphone can reach listeners worldwide, so niche topics that never fit radio schedules now find audiences. The flip side is noise: without editors, quality varies widely, and listeners must judge credibility for themselves.",
+      "stem": "Which statement best captures the central idea?",
+      "choices": [
+        "All podcasts are more trustworthy than radio.",
+        "Podcasts expand access to audio topics but also require listeners to evaluate uneven quality.",
+        "Laptops cannot record clear sound.",
+        "Radio schedules should be abolished."
+      ],
+      "correct": 1,
+      "explanation": "Both the opportunity (wider access) and the drawback (uneven quality/credibility) are essential to the passage’s point."
+    },
+    {
+      "id": "mi-08",
+      "skill": "main-idea",
+      "passage": "Yellowstone’s wolves were reintroduced in the 1990s after decades of absence. Elk browsing patterns changed, and some riverbank vegetation recovered as elk avoided open areas more often. Researchers still debate how much of the plant recovery comes from wolves versus climate and human management, but few deny that the predators altered the ecosystem’s balance.",
+      "stem": "The passage is mainly about",
+      "choices": [
+        "why elk prefer open meadows.",
+        "how wolf reintroduction affected Yellowstone’s ecosystem, with some scientific debate remaining.",
+        "how to track wolves with radio collars.",
+        "why climate change is unrelated to plants."
+      ],
+      "correct": 1,
+      "explanation": "The focus is ecological change after wolves returned, including uncertainty about exact causes—not tracking methods."
+    },
+    {
+      "id": "mi-09",
+      "skill": "main-idea",
+      "passage": "A gap year between high school and college can help some students reset academically or explore work and travel. It can also delay degrees and add cost if plans are vague. Counselors increasingly urge students to treat a gap year like a project with goals, budgets, and a return date—not an open-ended pause.",
+      "stem": "Which title best fits the passage?",
+      "choices": [
+        "Why Everyone Must Take a Gap Year",
+        "Gap Years: Possible Benefits, Risks, and the Case for a Plan",
+        "How to Apply to College Early",
+        "Travel Discounts for Students Abroad"
+      ],
+      "correct": 1,
+      "explanation": "The passage weighs benefits and risks and stresses planning—matching that title, not absolute commands or unrelated topics."
+    },
+    {
+      "id": "mi-10",
+      "skill": "main-idea",
+      "passage": "Closed captions were created for viewers who are deaf or hard of hearing, but they now help many others: people learning a language, commuters watching without sound, and anyone in a noisy room. Platforms that treat captions as optional extras miss how widely useful accurate text has become.",
+      "stem": "The author’s main point is that",
+      "choices": [
+        "captions are only for one audience and should stay rare.",
+        "accurate captions serve a broader group than their original purpose and deserve serious support.",
+        "noisy rooms should be banned in public.",
+        "language learners should avoid videos."
+      ],
+      "correct": 1,
+      "explanation": "The passage expands who benefits from captions and criticizes treating them as optional—that is the core claim."
+    },
+    {
+      "id": "ev-05",
+      "skill": "evidence",
+      "passage": "The principal claimed the new hallway monitors reduced tardiness. Attendance logs showed late arrivals dropped from 48 per day to 19 after monitors began. Critics noted that the school also started a morning breakfast program the same week, which may have brought students in earlier for food rather than for fear of monitors.",
+      "stem": "Which detail most directly supports the principal’s claim?",
+      "choices": [
+        "Critics mentioned a breakfast program.",
+        "Late arrivals fell from 48 per day to 19 after monitors began.",
+        "Hallways can be crowded.",
+        "Some students dislike being watched."
+      ],
+      "correct": 1,
+      "explanation": "The attendance drop is the evidence offered for the claim. The breakfast note challenges the claim rather than supporting it."
+    },
+    {
+      "id": "ev-06",
+      "skill": "evidence",
+      "passage": "A company advertised that its tutoring app “guarantees higher SAT scores.” An independent review of 200 users found an average gain of 20 points, but a control group that only took practice tests gained 18 points on average over the same period.",
+      "stem": "Which statement most clearly weakens the advertisement’s guarantee?",
+      "choices": [
+        "Some students enjoy using apps.",
+        "Practice tests exist.",
+        "A control group improved almost as much without the app, so the app’s unique benefit looks small.",
+        "The SAT has a reading section."
+      ],
+      "correct": 2,
+      "explanation": "Nearly equal gains without the app undercut the idea that the app guarantees meaningfully higher scores."
+    },
+    {
+      "id": "ev-07",
+      "skill": "evidence",
+      "passage": "Historians argue that streetcars shaped early suburbs by making longer commutes practical. City maps from 1910 show housing clusters along streetcar lines, while areas farther from the tracks remained farmland longer. Fare records also show weekday ridership peaking at morning and evening rush hours.",
+      "stem": "The 1910 maps are used primarily to",
+      "choices": [
+        "prove that farmland is unhealthy.",
+        "provide spatial evidence linking housing growth to streetcar routes.",
+        "show that cars had already replaced streetcars.",
+        "explain how fare prices were calculated."
+      ],
+      "correct": 1,
+      "explanation": "Housing along the lines versus farmland farther away is geographic support for the historians’ commuting argument."
+    },
+    {
+      "id": "ev-08",
+      "skill": "evidence",
+      "passage": "“Reading aloud to toddlers builds vocabulary,” Dr. Chen told parents. She cited a study in which children who were read to daily knew, on average, 300 more words by age three than children who were rarely read to, even when family income was similar.",
+      "stem": "Which part of the passage most directly supports Dr. Chen’s claim?",
+      "choices": [
+        "Dr. Chen spoke to parents.",
+        "Toddlers like picture books.",
+        "Daily read-alouds linked to knowing about 300 more words by age three when income was similar.",
+        "Some families own many books."
+      ],
+      "correct": 2,
+      "explanation": "The comparative word-count finding is the evidentiary support; the other options are not evidence for the claim."
+    },
+    {
+      "id": "ev-09",
+      "skill": "evidence",
+      "passage": "A blogger wrote that banning plastic straws would “save the oceans.” Ocean researchers replied that straws are a tiny fraction of plastic waste by weight compared with fishing gear and packaging, and that focusing only on straws can distract from larger sources.",
+      "stem": "The researchers’ reply functions mainly to",
+      "choices": [
+        "agree that straws are the largest ocean threat.",
+        "challenge the blogger’s claim by putting straw waste in proportion to bigger plastic sources.",
+        "argue that packaging should never be recycled.",
+        "promote a new brand of metal straws."
+      ],
+      "correct": 1,
+      "explanation": "They dispute the scale of the claim by comparing straw waste to larger contributors."
+    },
+    {
+      "id": "ev-10",
+      "skill": "evidence",
+      "passage": "The coach said the team’s new sleep schedule improved free-throw shooting. Game stats showed free-throw percentage rose from 68% to 74% after the schedule began. However, the team also hired a shooting specialist that same month.",
+      "stem": "A skeptical reader would most likely say the stats are weak support for the coach’s claim because",
+      "choices": [
+        "74% is impossible.",
+        "another change (a shooting specialist) happened at the same time, so sleep may not be the cause.",
+        "free throws do not count in basketball.",
+        "coaches never tell the truth."
+      ],
+      "correct": 1,
+      "explanation": "A simultaneous alternative explanation undermines causal credit to the sleep schedule alone."
+    },
+    {
+      "id": "vc-06",
+      "skill": "vocab-context",
+      "passage": "The mayor’s speech was full of platitudes about “working together” and “brighter tomorrows,” but it offered no budget numbers, timelines, or named programs.",
+      "stem": "As used in the passage, “platitudes” most nearly means",
+      "choices": [
+        "detailed policy proposals",
+        "empty, overused statements that sound good but say little",
+        "secret legal threats",
+        "humorous personal stories"
+      ],
+      "correct": 1,
+      "explanation": "Contrast with missing numbers and programs shows the speech used vague, familiar phrases without substance."
+    },
+    {
+      "id": "vc-07",
+      "skill": "vocab-context",
+      "passage": "After the scandal, the charity tried to rehabilitate its image with open books and a new board. Donations slowly returned, though trust rebuilt more slowly than cash flow.",
+      "stem": "In this context, “rehabilitate” most nearly means",
+      "choices": [
+        "destroy completely",
+        "restore to a better condition or reputation",
+        "ignore public criticism",
+        "sell to a larger company"
+      ],
+      "correct": 1,
+      "explanation": "Open books and a new board aiming to regain trust show an effort to restore reputation."
+    },
+    {
+      "id": "vc-08",
+      "skill": "vocab-context",
+      "passage": "The desert night was so still that even a coyote’s distant yip felt enormous. Mira whispered, afraid her voice would shatter the fragile quiet.",
+      "stem": "The word “fragile” in “fragile quiet” suggests that the quiet is",
+      "choices": [
+        "physically made of glass",
+        "easily broken by sound or interruption",
+        "dangerous to animals",
+        "caused by broken equipment"
+      ],
+      "correct": 1,
+      "explanation": "Her fear of whispering shows the quiet seems easily disturbed—figurative fragility."
+    },
+    {
+      "id": "vc-09",
+      "skill": "vocab-context",
+      "passage": "Critics called the novel derivative, noting plots and characters that closely echoed last year’s bestseller. Fans replied that every story borrows, but even they admitted the similarities were hard to miss.",
+      "stem": "As used here, “derivative” most nearly means",
+      "choices": [
+        "highly original",
+        "based too heavily on earlier work",
+        "printed on recycled paper",
+        "written in a foreign language"
+      ],
+      "correct": 1,
+      "explanation": "Echoing a recent bestseller is the clue that “derivative” means insufficiently original."
+    },
+    {
+      "id": "vc-10",
+      "skill": "vocab-context",
+      "passage": "The treaty’s language was deliberately ambiguous on fishing rights, allowing both nations to claim a win at home while postponing the hardest decisions.",
+      "stem": "In this context, “ambiguous” most nearly means",
+      "choices": [
+        "clear and strict",
+        "open to more than one interpretation",
+        "written only in pencil",
+        "friendly and humorous"
+      ],
+      "correct": 1,
+      "explanation": "Both sides claiming a win while delaying hard choices shows wording that can be read more than one way."
+    },
+    {
+      "id": "ts-06",
+      "skill": "tone-structure",
+      "passage": "We are delighted to welcome Dr. Okonkwo to the faculty. Her research on coastal resilience has already inspired students and colleagues alike, and we look forward to the energy she will bring to our seminars.",
+      "stem": "The tone of this announcement is best described as",
+      "choices": [
+        "hostile and suspicious",
+        "warm and celebratory",
+        "bored and indifferent",
+        "sarcastic and mocking"
+      ],
+      "correct": 1,
+      "explanation": "Words like “delighted,” “inspired,” and “look forward” create a welcoming, positive tone."
+    },
+    {
+      "id": "ts-07",
+      "skill": "tone-structure",
+      "passage": "The problem began with clogged storm drains. After heavy rain, water pooled on Maple Street. Residents reported damaged basements. The city then cleared the drains and installed two new catch basins. Flooding during the next storm was minimal.",
+      "stem": "How is this passage primarily organized?",
+      "choices": [
+        "Strict alphabetical list",
+        "Problem, effects, then solution and outcome",
+        "Side-by-side character comparison",
+        "Random jokes with no order"
+      ],
+      "correct": 1,
+      "explanation": "It moves from problem → consequences → actions taken → result."
+    },
+    {
+      "id": "ts-08",
+      "skill": "tone-structure",
+      "passage": "If you enjoy waiting three hours for a roller coaster that lasts forty-four seconds, by all means visit on a holiday weekend. Bring snacks. Bring patience. Bring a hobby. You’ll need all three.",
+      "stem": "The author’s tone is best described as",
+      "choices": [
+        "sincerely enthusiastic without irony",
+        "dryly humorous and cautionary",
+        "fearful and tragic",
+        "technical and neutral"
+      ],
+      "correct": 1,
+      "explanation": "The exaggerated advice and contrast of wait vs. ride length signal wry humor warning about crowds."
+    },
+    {
+      "id": "ts-09",
+      "skill": "tone-structure",
+      "passage": "Unlike diesel buses, electric buses produce no tailpipe emissions on the route. Similar to diesel buses, they still need charging infrastructure and trained maintenance crews. Cities weighing a switch must compare both the clean-air gains and the new support systems required.",
+      "stem": "The phrases “Unlike” and “Similar to” show that the author is mainly",
+      "choices": [
+        "telling a mystery story",
+        "comparing and contrasting two kinds of buses",
+        "listing unrelated bus jokes",
+        "arguing that maintenance is unnecessary"
+      ],
+      "correct": 1,
+      "explanation": "Those signal words explicitly set up differences and likenesses between bus types."
+    },
+    {
+      "id": "ts-10",
+      "skill": "tone-structure",
+      "passage": "Please submit lab reports by Friday at noon. Late work loses ten percent per day. Email the file as a PDF to the address on the syllabus. Do not slide paper copies under the office door.",
+      "stem": "The tone of this notice is best described as",
+      "choices": [
+        "playful and joking",
+        "direct, instructional, and firm",
+        "emotional and confessional",
+        "uncertain and apologetic"
+      ],
+      "correct": 1,
+      "explanation": "Short commands and clear penalties create a straightforward instructional tone."
+    },
+    {
+      "id": "pu-06",
+      "skill": "purpose",
+      "passage": "Tornado watches mean conditions are favorable for tornadoes; tornado warnings mean a tornado has been sighted or indicated by radar. If a warning is issued for your area, move to an interior room on the lowest floor and stay away from windows until the danger has passed.",
+      "stem": "The author’s primary purpose is to",
+      "choices": [
+        "entertain with storm legends",
+        "explain alert terms and tell readers how to stay safer",
+        "argue that radar should be banned",
+        "describe the history of weather satellites"
+      ],
+      "correct": 1,
+      "explanation": "Definitions plus safety steps show an informative/advisory purpose."
+    },
+    {
+      "id": "pu-07",
+      "skill": "purpose",
+      "passage": "Our town’s only public pool closes at 6 p.m., which shuts out working parents and teens with evening jobs. Extending summer hours until 8 p.m. would cost less than one part-time lifeguard shift per night and would give more families a safe place to cool off. The council should approve the extension at Monday’s meeting.",
+      "stem": "The author mainly intends to",
+      "choices": [
+        "narrate a day at the pool",
+        "persuade the council to extend pool hours",
+        "explain how chlorine works",
+        "discourage swimming for teens"
+      ],
+      "correct": 1,
+      "explanation": "A problem, a low-cost fix, and “should approve” mark persuasion."
+    },
+    {
+      "id": "pu-08",
+      "skill": "purpose",
+      "passage": "A binary star system contains two stars that orbit a shared center of mass. From Earth they may look like a single point of light, but telescopes and careful brightness measurements can reveal the pair. Some binaries eclipse each other, causing periodic dips in observed light.",
+      "stem": "This passage is primarily meant to",
+      "choices": [
+        "inform readers what binary stars are and how they can be detected",
+        "persuade readers to become astronauts",
+        "tell a myth about twin gods",
+        "argue that telescopes are useless"
+      ],
+      "correct": 0,
+      "explanation": "It gives a factual explanation of binary systems and detection—classic informative purpose."
+    },
+    {
+      "id": "pu-09",
+      "skill": "purpose",
+      "passage": "Jalen’s backpack zipper stuck again on the bus. He tugged, muttered, and finally borrowed a classmate’s pen tip to free the pull. By the time the bag opened, his stop was two blocks past. He laughed, hiked back, and decided tomorrow’s backup plan was a second bag.",
+      "stem": "The author most likely wrote this passage to",
+      "choices": [
+        "teach zipper repair as a technical manual",
+        "depict a small frustrating moment and how a character responds",
+        "argue against public buses",
+        "list school supply prices"
+      ],
+      "correct": 1,
+      "explanation": "The focus is narrative experience and character response, not instruction or argument."
+    },
+    {
+      "id": "pu-10",
+      "skill": "purpose",
+      "passage": "Join Saturday’s coastal cleanup from 9 to noon at Pier Park. Gloves and bags are provided. Volunteers under 16 need a parent signature. Rain cancels; check the park site Friday evening for updates.",
+      "stem": "The main purpose of this passage is to",
+      "choices": [
+        "persuade readers that oceans are hopeless",
+        "give practical details for joining a volunteer event",
+        "analyze plastic chemistry",
+        "review a restaurant near the pier"
+      ],
+      "correct": 1,
+      "explanation": "Time, place, supplies, age rule, and rain plan are event logistics."
+    },
+    {
+      "id": "re-05",
+      "skill": "relationships",
+      "passage": "The bakery ran out of flour before noon. Consequently, the afternoon pastry case stayed half empty, and regulars left with coffee only.",
+      "stem": "The second sentence relates to the first by showing",
+      "choices": [
+        "a definition of flour",
+        "an effect that follows from the shortage",
+        "a denial of the first sentence",
+        "an unrelated weather report"
+      ],
+      "correct": 1,
+      "explanation": "“Consequently” marks result: empty case and limited sales follow from no flour."
+    },
+    {
+      "id": "re-06",
+      "skill": "relationships",
+      "passage": "Even though the trail was marked difficult, several beginners finished it by resting often and carrying extra water.",
+      "stem": "“Even though” signals",
+      "choices": [
+        "a contrast between expectation and what happened",
+        "that the two ideas mean the same thing",
+        "a chronological list of mountain names",
+        "that beginners were not allowed on the trail"
+      ],
+      "correct": 0,
+      "explanation": "The marker sets difficulty against the surprising success of beginners."
+    },
+    {
+      "id": "re-07",
+      "skill": "relationships",
+      "passage": "The app stores your draft automatically. In addition, it keeps a version history so you can restore yesterday’s paragraph if you delete too much today.",
+      "stem": "The phrase “In addition” indicates that the second sentence",
+      "choices": [
+        "cancels the first sentence",
+        "adds another related benefit",
+        "introduces a completely opposite idea",
+        "asks a question"
+      ],
+      "correct": 1,
+      "explanation": "“In addition” piles on a further related feature."
+    },
+    {
+      "id": "re-08",
+      "skill": "relationships",
+      "passage": "She wanted the internship. She updated her résumé. She asked two teachers for references. She practiced interview answers aloud. Finally, she hit submit on the application portal.",
+      "stem": "The string of short sentences mainly emphasizes",
+      "choices": [
+        "a sequence of steps toward one goal",
+        "a comparison of two internships",
+        "a scientific law",
+        "the author’s anger at teachers"
+      ],
+      "correct": 0,
+      "explanation": "Repeated actions ending in “Finally” create a clear step-by-step sequence."
+    },
+    {
+      "id": "re-09",
+      "skill": "relationships",
+      "passage": "The bridge lights failed at dusk; therefore drivers slowed and used headlights earlier than usual.",
+      "stem": "Which word could replace “therefore” with the same logical relationship?",
+      "choices": [
+        "unless",
+        "meanwhile",
+        "so",
+        "although"
+      ],
+      "correct": 2,
+      "explanation": "“So” also marks result. The others contrast, set timing, or set a condition."
+    },
+    {
+      "id": "re-10",
+      "skill": "relationships",
+      "passage": "The recipe looked simple. It was not. Missing one pinch of salt flattened the whole flavor.",
+      "stem": "The relationship between the first two sentences is best described as",
+      "choices": [
+        "cause explained by a statistic",
+        "a claim followed by a sharp contrast",
+        "a question and an answer from a glossary",
+        "two identical restatements"
+      ],
+      "correct": 1,
+      "explanation": "“It was not” reverses the expectation set by “looked simple.”"
+    },
+    {
+      "id": "ch-05",
+      "skill": "character",
+      "passage": "Whenever a teammate missed a shot, Priya clapped once and called, “Next one!” She stayed after practice to rebound for anyone who asked. When she missed herself, she shook her head, smiled, and ran back on defense without excuses.",
+      "stem": "Priya is best described as",
+      "choices": [
+        "encouraging, resilient, and team-minded",
+        "boastful and uninterested in others",
+        "fearful of playing defense",
+        "eager to blame teammates"
+      ],
+      "correct": 0,
+      "explanation": "Her support for others and steady response to her own misses show encouragement and resilience."
+    },
+    {
+      "id": "ch-06",
+      "skill": "character",
+      "passage": "Omar arrived twenty minutes early to the interview, then checked his notes twice in the lobby. He had researched the company’s last product launch and prepared two questions about it. When his name was called, he stood quickly, wiped his palms on his pants, and walked in.",
+      "stem": "Omar’s behavior most strongly suggests he is",
+      "choices": [
+        "unprepared and indifferent",
+        "nervous but serious about making a good impression",
+        "trying to sabotage the interview",
+        "already employed by the company"
+      ],
+      "correct": 1,
+      "explanation": "Early arrival, research, and sweaty palms together show earnest preparation mixed with nerves."
+    },
+    {
+      "id": "ch-07",
+      "skill": "character",
+      "passage": "In the story, Aunt Rhea keeps a spare key taped inside the mailbox “for emergencies,” yet she refuses to lock her own bike. She feeds stray cats on the porch and scolds the mail carrier for leaving the gate open—then apologizes with cookies the next day.",
+      "stem": "Aunt Rhea comes across as",
+      "choices": [
+        "strictly logical in every habit",
+        "warm-hearted but inconsistent and a bit contradictory",
+        "cruel to animals and neighbors",
+        "afraid to speak to anyone"
+      ],
+      "correct": 1,
+      "explanation": "Kindness to cats and cookie apologies sit beside odd security habits—warm but inconsistent."
+    },
+    {
+      "id": "ch-08",
+      "skill": "character",
+      "passage": "“I said I’d finish the group slides tonight,” Devin muttered, closing the game app. He opened the shared folder, groaned at the blank title slide, and typed the first bullet anyway. “Future me can thank present me,” he said to the empty room.",
+      "stem": "What motivates Devin in this moment?",
+      "choices": [
+        "A wish to break his promise",
+        "A decision to meet a responsibility he already claimed, despite preferring to play",
+        "Anger at his teammates for finishing early",
+        "A plan to delete the project"
+      ],
+      "correct": 1,
+      "explanation": "He stops gaming and starts the slides because he owns the commitment."
+    },
+    {
+      "id": "ch-09",
+      "skill": "character",
+      "passage": "Commander Lee spoke softly during the crisis drill, repeating each instruction once and watching faces for confusion. When a trainee froze, Lee stepped beside them and whispered the next step rather than calling them out in front of the room.",
+      "stem": "Commander Lee’s leadership style in the passage is best described as",
+      "choices": [
+        "calm, clear, and protective of trainees’ dignity",
+        "loud, mocking, and impatient",
+        "absent and uninvolved",
+        "focused only on personal glory"
+      ],
+      "correct": 0,
+      "explanation": "Soft speech, checking understanding, and private help show calm, respectful leadership."
+    },
+    {
+      "id": "ch-10",
+      "skill": "character",
+      "passage": "Sasha had vowed not to look at the competition rankings. By lunch she had refreshed the page six times. Each time her name stayed in second place, she told herself she was fine with it—then refreshed again.",
+      "stem": "Sasha’s actions reveal that she",
+      "choices": [
+        "truly does not care about rankings",
+        "is more anxious and competitive than she admits",
+        "has already won first place",
+        "cannot use a computer"
+      ],
+      "correct": 1,
+      "explanation": "Repeated checking despite her vow shows concern she won’t acknowledge out loud."
+    },
+    {
+      "id": "co-05",
+      "skill": "compare",
+      "passage": "Passage A: Schools should require a personal finance course. Graduates who can budget, avoid predatory loans, and understand credit will make stronger household decisions.\n\nPassage B: Personal finance matters, but a single required course often becomes a shallow checklist. Mentorship and real practice with student-run credit unions teach more than a semester of worksheets.",
+      "stem": "How do the passages mainly differ?",
+      "choices": [
+        "A rejects all money education; B demands it.",
+        "A favors a required course; B questions whether one course is enough and prefers applied learning.",
+        "Both ban mentorship programs.",
+        "B claims budgeting is useless."
+      ],
+      "correct": 1,
+      "explanation": "Both value financial know-how; they disagree about the best method."
+    },
+    {
+      "id": "co-06",
+      "skill": "compare",
+      "passage": "Passage A: Remote work saves commuting time and can increase focus for deep tasks.\n\nPassage B: Remote work can blur home and office boundaries, leaving some people working longer hours without noticing.",
+      "stem": "Both passages are concerned with",
+      "choices": [
+        "how remote work affects workers’ time and daily experience",
+        "the history of office furniture",
+        "banning all technology",
+        "airline schedules"
+      ],
+      "correct": 0,
+      "explanation": "A highlights time saved/focus; B highlights time boundaries—shared topic is remote work’s effect on daily life."
+    },
+    {
+      "id": "co-07",
+      "skill": "compare",
+      "passage": "Text 1: Memorize key formulas before the chemistry exam. Quick recall frees working memory for harder problems.\n\nText 2: Blind memorization without understanding units and relationships leads to plug-and-chug mistakes. Learn why a formula works, then memorize.",
+      "stem": "Text 2 relates to Text 1 by",
+      "choices": [
+        "repeating Text 1 with no change",
+        "adding a caution that understanding should come with memorization",
+        "claiming exams should be canceled",
+        "changing the subject to biology"
+      ],
+      "correct": 1,
+      "explanation": "Text 2 doesn’t ban memorizing; it insists understanding must accompany it."
+    },
+    {
+      "id": "co-08",
+      "skill": "compare",
+      "passage": "Speaker 1: Raise the minimum wage to reduce poverty among full-time workers.\n\nSpeaker 2: Raise skills and childcare access instead; a higher wage floor may cut hours for the same workers you mean to help.",
+      "stem": "The speakers primarily disagree about",
+      "choices": [
+        "whether poverty exists",
+        "which policy best helps low-wage workers",
+        "whether childcare should be illegal",
+        "whether anyone works full time"
+      ],
+      "correct": 1,
+      "explanation": "Both address helping workers; they propose different policy tools and worry about different side effects."
+    },
+    {
+      "id": "co-09",
+      "skill": "compare",
+      "passage": "Passage A: Printed newspapers slow you down in a useful way; you read longer articles and see stories you did not search for.\n\nPassage B: Digital news lets you update minute by minute and search exactly what you need, which print cannot match for speed.",
+      "stem": "Which statement best describes the two views?",
+      "choices": [
+        "A values depth and discovery in print; B values speed and search in digital news.",
+        "Both claim print is always faster.",
+        "Both reject all news media.",
+        "B argues that searching is impossible online."
+      ],
+      "correct": 0,
+      "explanation": "Each passage praises a different strength of its preferred medium."
+    },
+    {
+      "id": "co-10",
+      "skill": "compare",
+      "passage": "Essay 1: Community college is a smart low-cost start; transfer after two years with less debt.\n\nEssay 2: Starting at a university can mean earlier access to research labs and a continuous friend group, which some students need to stay motivated.",
+      "stem": "What do both essays assume?",
+      "choices": [
+        "That college pathways can differ and still be reasonable depending on student needs and goals",
+        "That no one should attend college",
+        "That debt is imaginary",
+        "That research labs do not exist"
+      ],
+      "correct": 0,
+      "explanation": "Each defends a different starting path as valid for some students—implying multiple workable routes."
+    },
+    {
+      "id": "fo-06",
+      "skill": "fact-opinion",
+      "passage": "The museum opened in 1972. It holds more than 40,000 photographs. It is the most moving museum in the state. Admission is free on the first Sunday of each month.",
+      "stem": "Which sentence is an opinion?",
+      "choices": [
+        "The museum opened in 1972.",
+        "It holds more than 40,000 photographs.",
+        "It is the most moving museum in the state.",
+        "Admission is free on the first Sunday of each month."
+      ],
+      "correct": 2,
+      "explanation": "“Most moving” is a subjective judgment; the others are checkable claims."
+    },
+    {
+      "id": "fo-07",
+      "skill": "fact-opinion",
+      "passage": "Team bus mileage averaged 12,000 miles last season. The new schedule is ridiculous. Players must still attend Friday classes after Thursday away games.",
+      "stem": "Which statement expresses an opinion?",
+      "choices": [
+        "Team bus mileage averaged 12,000 miles last season.",
+        "The new schedule is ridiculous.",
+        "Players must still attend Friday classes after Thursday away games.",
+        "Away games happen on some Thursdays."
+      ],
+      "correct": 1,
+      "explanation": "“Ridiculous” judges the schedule; mileage and class rules can be verified."
+    },
+    {
+      "id": "fo-08",
+      "skill": "fact-opinion",
+      "passage": "Water boils at 100°C at standard pressure. Tea is more sophisticated than coffee. Many cafés serve both drinks.",
+      "stem": "Which of the following is a fact?",
+      "choices": [
+        "Tea is more sophisticated than coffee.",
+        "Water boils at 100°C at standard pressure.",
+        "Everyone prefers tea.",
+        "Coffee should be banned."
+      ],
+      "correct": 1,
+      "explanation": "Boiling point is a scientific fact; sophistication and preferences are opinions."
+    },
+    {
+      "id": "fo-09",
+      "skill": "fact-opinion",
+      "passage": "A flyer states: “The concert starts at 8 p.m. Tickets cost $25. It will be the best night of your life. Doors open at 7:15.”",
+      "stem": "Which part is clearly opinion?",
+      "choices": [
+        "The concert starts at 8 p.m.",
+        "Tickets cost $25.",
+        "It will be the best night of your life.",
+        "Doors open at 7:15."
+      ],
+      "correct": 2,
+      "explanation": "“Best night of your life” predicts a subjective ranking; times and price are factual claims on the flyer."
+    },
+    {
+      "id": "fo-10",
+      "skill": "fact-opinion",
+      "passage": "The bridge inspection found three cracked bolts. Engineers scheduled repairs for May. Drivers are foolish if they still use the span. Detour signs will be posted on Monday.",
+      "stem": "Which sentence cannot be verified the same way as the others?",
+      "choices": [
+        "The bridge inspection found three cracked bolts.",
+        "Engineers scheduled repairs for May.",
+        "Drivers are foolish if they still use the span.",
+        "Detour signs will be posted on Monday."
+      ],
+      "correct": 2,
+      "explanation": "Calling drivers “foolish” is a value judgment, not an inspection result or schedule fact."
+    },
+    {
+      "id": "rh-06",
+      "skill": "rhetoric",
+      "passage": "My neighbor’s dog barked once at midnight. Therefore the whole breed is dangerous and should be banned from the city.",
+      "stem": "The main weakness in this argument is that it",
+      "choices": [
+        "uses too much statistical evidence from national studies",
+        "jumps from one limited incident to a sweeping conclusion about an entire breed",
+        "refuses to mention dogs at all",
+        "is written as a sonnet"
+      ],
+      "correct": 1,
+      "explanation": "One bark does not justify a citywide breed ban—hasty generalization."
+    },
+    {
+      "id": "rh-07",
+      "skill": "rhetoric",
+      "passage": "Either we install cameras in every classroom, or we admit we do not care about safety. Those are the only options.",
+      "stem": "This argument is flawed mainly because it",
+      "choices": [
+        "presents a false choice between extremes and ignores other safety measures",
+        "defines safety too carefully with data",
+        "supports teachers too strongly",
+        "uses a lab experiment"
+      ],
+      "correct": 0,
+      "explanation": "It is a false dilemma: many safety approaches exist between “cameras everywhere” and “not caring.”"
+    },
+    {
+      "id": "rh-08",
+      "skill": "rhetoric",
+      "passage": "A climate scientist presents decade-long temperature records and peer-reviewed models. A celebrity replies, “I flew over Greenland once, and it still looked icy to me, so nothing is changing.”",
+      "stem": "A careful reader should prefer the scientist’s case primarily because it",
+      "choices": [
+        "uses flattering adjectives",
+        "relies on systematic evidence rather than one casual personal impression",
+        "comes from someone famous",
+        "ignores Greenland entirely"
+      ],
+      "correct": 1,
+      "explanation": "Long-term data and reviewed models outweigh a single anecdotal flyover."
+    },
+    {
+      "id": "rh-09",
+      "skill": "rhetoric",
+      "passage": "“You can’t trust Jordan’s budget ideas,” Lee said. “Jordan once failed a pop quiz in tenth grade.”",
+      "stem": "Lee’s reply is a weak argument because it",
+      "choices": [
+        "attacks Jordan’s past unrelated performance instead of addressing the budget ideas",
+        "provides detailed cost tables",
+        "quotes economic experts",
+        "compares multiple budget plans fairly"
+      ],
+      "correct": 0,
+      "explanation": "An old pop-quiz failure is irrelevant to evaluating present budget proposals (ad hominem / red herring)."
+    },
+    {
+      "id": "rh-10",
+      "skill": "rhetoric",
+      "passage": "An ad claims: “Our headphones use aerospace-grade aluminum. Therefore they will make you smarter, happier, and more productive at work.”",
+      "stem": "Which critique is most reasonable?",
+      "choices": [
+        "Aluminum automatically improves intelligence.",
+        "The ad leaps from a materials detail to broad lifestyle claims without evidence.",
+        "All advertising is illegal.",
+        "Headphones cannot be made of metal."
+      ],
+      "correct": 1,
+      "explanation": "Material marketing does not logically prove smarter/happier/more productive outcomes."
+    }
+  ]
+}

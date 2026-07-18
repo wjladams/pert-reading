@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PERT Reading Practice</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --passage-bg: #f7f5f0;
+      --ink: #1c2430;
+    }
+    body {
+      background: linear-gradient(180deg, #eef2f6 0%, #f8f9fb 40%, #f8f9fb 100%);
+      color: var(--ink);
+      min-height: 100vh;
+    }
+    .navbar-brand { font-weight: 700; letter-spacing: -0.02em; }
+    .view { display: none; }
+    .view.active { display: block; }
+    .passage-box {
+      background: var(--passage-bg);
+      border: 1px solid #e2ddd3;
+      border-radius: 0.5rem;
+      padding: 1rem 1.15rem;
+      white-space: pre-wrap;
+      line-height: 1.55;
+      max-height: 18rem;
+      overflow-y: auto;
+      font-size: 1.02rem;
+    }
+    .choice-label {
+      border: 1px solid #dee2e6;
+      border-radius: 0.5rem;
+      padding: 0.75rem 1rem;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .choice-label:hover { border-color: #6ea8fe; background: #f8fbff; }
+    .choice-label.selected { border-color: #0d6efd; background: #e7f1ff; }
+    .choice-label.correct { border-color: #198754; background: #e8f6ee; }
+    .choice-label.incorrect { border-color: #dc3545; background: #fcebec; }
+    .skill-chip {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .progress-skill-row { margin-bottom: 0.85rem; }
+    .home-card { transition: transform 0.12s ease, box-shadow 0.12s ease; }
+    .home-card:hover { transform: translateY(-2px); box-shadow: 0 0.5rem 1rem rgba(0,0,0,.08); }
+    #feedback-box { display: none; }
+    .stat-num { font-size: 1.75rem; font-weight: 700; line-height: 1.1; }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
+    <div class="container">
+      <a class="navbar-brand" href="#home">PERT Reading</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMain">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navMain">
+        <ul class="navbar-nav ms-auto" id="main-nav">
+          <li class="nav-item"><a class="nav-link" href="#home" data-route="home">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#drill" data-route="drill">Drill</a></li>
+          <li class="nav-item"><a class="nav-link" href="#mixed" data-route="mixed">Mixed</a></li>
+          <li class="nav-item"><a class="nav-link" href="#mock" data-route="mock">Mock</a></li>
+          <li class="nav-item"><a class="nav-link" href="#missed" data-route="missed">Missed</a></li>
+          <li class="nav-item"><a class="nav-link" href="#progress" data-route="progress">Progress</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container py-4">
+    <div id="load-error" class="alert alert-danger d-none"></div>
+
+    <!-- HOME -->
+    <section id="view-home" class="view">
+      <div class="row align-items-end mb-4">
+        <div class="col-lg-8">
+          <h1 class="h2 mb-2">Practice for PERT Reading</h1>
+          <p class="text-secondary mb-0">
+            Goal: reach <strong>106+</strong> on PERT Reading for ENC1101 at Daytona State.
+            Untimed practice — slow down. On the real test you cannot go back after you lock an answer.
+          </p>
+        </div>
+        <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
+          <div class="small text-secondary">Bank: <span id="bank-count">—</span> questions</div>
+          <div class="small text-secondary">Missed queue: <span id="home-missed-count">0</span></div>
+        </div>
+      </div>
+      <div class="row g-3">
+        <div class="col-md-6 col-xl-3">
+          <a href="#drill" class="card home-card h-100 text-decoration-none text-dark">
+            <div class="card-body">
+              <h2 class="h5 card-title">Drill by skill</h2>
+              <p class="card-text small text-secondary mb-0">Target one competency at a time (main idea, inference-style evidence, tone, …).</p>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 col-xl-3">
+          <a href="#mixed" class="card home-card h-100 text-decoration-none text-dark">
+            <div class="card-body">
+              <h2 class="h5 card-title">Mixed practice</h2>
+              <p class="card-text small text-secondary mb-0">10 random questions across skills — good daily warm-up.</p>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 col-xl-3">
+          <a href="#mock" class="card home-card h-100 text-decoration-none text-dark">
+            <div class="card-body">
+              <h2 class="h5 card-title">Full mock</h2>
+              <p class="card-text small text-secondary mb-0">25 questions, no going back after you submit — closest to test day habits.</p>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 col-xl-3">
+          <a href="#missed" class="card home-card h-100 text-decoration-none text-dark">
+            <div class="card-body">
+              <h2 class="h5 card-title">Review missed</h2>
+              <p class="card-text small text-secondary mb-0">Retry items you missed. Cleared when you get them right.</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="mt-4">
+        <a href="#progress" class="btn btn-outline-secondary btn-sm">View progress &amp; export</a>
+      </div>
+    </section>
+
+    <!-- DRILL SETUP -->
+    <section id="view-drill" class="view">
+      <h1 class="h3 mb-3">Drill by skill</h1>
+      <p class="text-secondary">Choose a skill, then answer up to 8 questions from that bank.</p>
+      <div id="skill-list" class="list-group mb-3"></div>
+    </section>
+
+    <!-- MISSED EMPTY / SETUP handled in quiz start -->
+    <section id="view-missed" class="view">
+      <h1 class="h3 mb-3">Review missed</h1>
+      <div id="missed-panel"></div>
+    </section>
+
+    <!-- MIXED / MOCK intro panels -->
+    <section id="view-mixed" class="view">
+      <h1 class="h3 mb-3">Mixed practice</h1>
+      <p class="text-secondary">Ten questions drawn randomly from the full bank. Feedback after each item.</p>
+      <button type="button" class="btn btn-primary" id="btn-start-mixed">Start 10-question set</button>
+    </section>
+
+    <section id="view-mock" class="view">
+      <h1 class="h3 mb-3">Full mock (PERT-style habits)</h1>
+      <ul class="text-secondary">
+        <li>25 scored-style questions (untimed)</li>
+        <li>After you submit an answer, you move on — no going back</li>
+        <li>Explanations appear on the results screen, not mid-test</li>
+      </ul>
+      <button type="button" class="btn btn-primary" id="btn-start-mock">Start mock exam</button>
+    </section>
+
+    <!-- QUIZ -->
+    <section id="view-quiz" class="view">
+      <div class="d-flex flex-wrap justify-content-between align-items-center gap-2 mb-3">
+        <div>
+          <span class="badge text-bg-secondary skill-chip" id="quiz-mode-label">Practice</span>
+          <span class="badge text-bg-light text-dark border skill-chip ms-1" id="quiz-skill-label"></span>
+        </div>
+        <div class="small text-secondary" id="quiz-progress-label">Question 1 of 10</div>
+      </div>
+      <div class="progress mb-3" style="height: 6px;">
+        <div class="progress-bar" id="quiz-progress-bar" style="width: 0%"></div>
+      </div>
+
+      <div class="passage-box mb-3" id="quiz-passage"></div>
+      <h2 class="h5 mb-3" id="quiz-stem"></h2>
+      <div id="quiz-choices" class="d-grid gap-2 mb-3"></div>
+
+      <div id="feedback-box" class="alert mb-3">
+        <div id="feedback-title" class="fw-semibold"></div>
+        <div id="feedback-body" class="small mt-1"></div>
+      </div>
+
+      <div class="d-flex flex-wrap gap-2">
+        <button type="button" class="btn btn-primary" id="btn-submit">Submit answer</button>
+        <button type="button" class="btn btn-success d-none" id="btn-next">Next</button>
+        <button type="button" class="btn btn-outline-secondary" id="btn-quit-quiz">Quit</button>
+      </div>
+    </section>
+
+    <!-- RESULTS -->
+    <section id="view-results" class="view">
+      <h1 class="h3 mb-3">Results</h1>
+      <div class="row g-3 mb-4">
+        <div class="col-sm-4">
+          <div class="card"><div class="card-body">
+            <div class="text-secondary small">Score</div>
+            <div class="stat-num" id="results-score">0%</div>
+          </div></div>
+        </div>
+        <div class="col-sm-4">
+          <div class="card"><div class="card-body">
+            <div class="text-secondary small">Correct</div>
+            <div class="stat-num" id="results-correct">0 / 0</div>
+          </div></div>
+        </div>
+        <div class="col-sm-4">
+          <div class="card"><div class="card-body">
+            <div class="text-secondary small">Mode</div>
+            <div class="stat-num fs-4" id="results-mode">—</div>
+          </div></div>
+        </div>
+      </div>
+      <h2 class="h6">By skill</h2>
+      <div id="results-by-skill" class="mb-4"></div>
+      <h2 class="h6">Item review</h2>
+      <div id="results-items" class="mb-4"></div>
+      <a href="#home" class="btn btn-primary">Back to home</a>
+      <a href="#progress" class="btn btn-outline-secondary">Progress</a>
+    </section>
+
+    <!-- PROGRESS -->
+    <section id="view-progress" class="view">
+      <h1 class="h3 mb-3">Progress</h1>
+      <div class="row g-3 mb-4">
+        <div class="col-sm-4">
+          <div class="card"><div class="card-body">
+            <div class="text-secondary small">Questions answered</div>
+            <div class="stat-num" id="prog-answered">0</div>
+          </div></div>
+        </div>
+        <div class="col-sm-4">
+          <div class="card"><div class="card-body">
+            <div class="text-secondary small">Overall accuracy</div>
+            <div class="stat-num" id="prog-accuracy">—</div>
+          </div></div>
+        </div>
+        <div class="col-sm-4">
+          <div class="card"><div class="card-body">
+            <div class="text-secondary small">In missed queue</div>
+            <div class="stat-num" id="prog-missed">0</div>
+          </div></div>
+        </div>
+      </div>
+      <h2 class="h6">Accuracy by skill</h2>
+      <div id="prog-skills" class="mb-4"></div>
+      <h2 class="h6">Recent attempts</h2>
+      <div id="prog-attempts" class="mb-4 small"></div>
+      <div class="d-flex flex-wrap gap-2 mb-3">
+        <button type="button" class="btn btn-outline-primary btn-sm" id="btn-export">Export progress (JSON)</button>
+        <label class="btn btn-outline-secondary btn-sm mb-0">
+          Import progress
+          <input type="file" id="input-import" accept="application/json,.json" hidden>
+        </label>
+        <button type="button" class="btn btn-outline-danger btn-sm" id="btn-clear">Clear all progress</button>
+      </div>
+      <p class="small text-secondary mb-0">Progress is stored in this browser only. Use export/import to move data between devices.</p>
+    </section>
+  </main>
+
+  <footer class="container pb-5">
+    <hr>
+    <p class="small text-secondary mb-0">
+      Unofficial practice for Florida PERT Reading skills. Not affiliated with McCann Associates or Daytona State College.
+      Original passages and items for study only — scores here are percent correct, not official PERT scaled scores (50–150).
+    </p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

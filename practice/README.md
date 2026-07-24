@@ -23,7 +23,7 @@ Publish this folder (or the repo root containing it). Use relative paths only â€
 |------|------|
 | `index.html` | Bootstrap UI |
 | `app.js` | Modes, scoring, `localStorage` |
-| `questions.json` | Original practice bank (~50 items, 10 skills) |
+| `questions.json` | Original practice bank (**400** items, 40 per skill; long passages) |
 
 Progress key: `pert-reading-practice-v1` in the browser.
 

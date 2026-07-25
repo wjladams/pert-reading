@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "title": "PERT Reading Practice",
   "skills": [
     {
@@ -78,9 +78,9 @@
       "passage": "Archaeologists studying a Bronze Age settlement in eastern Europe found charred grain stored in clay vessels beneath collapsed house floors. The grain's chemical signature matched varieties still grown in the region today, suggesting long continuity in local agriculture. More surprising was the presence of tools made from imported copper, which had traveled hundreds of miles along river trade routes. Together, the findings portray a community that maintained familiar farming practices while participating in wider exchange networks.\n\nThe settlement sat near a river crossing that archaeologists believe linked upland farmers with coastal traders. Pottery shards at the site show decorative styles from both regions, suggesting households acquired goods they did not make themselves. The grain finds were especially valuable because charring preserved seeds that would otherwise decompose within seasons. Together, the evidence challenges older assumptions that Bronze Age villages were isolated, self-sufficient units cut off from broader markets.",
       "stem": "The passage is mainly about",
       "choices": [
-        "The passage supports the idea that how modern grain varieties differ from ancient ones.",
-        "The passage supports the idea that why Bronze Age houses were built with clay floors.",
-        "The passage supports the idea that the complete history of copper mining in eastern Europe.",
+        "how modern grain varieties differ from ancient ones in technical detail beyond the main focus.",
+        "why Bronze Age houses were built with clay floors rather than other competing explanations.",
+        "the complete history of copper mining in eastern Europe, framed as exhaustive rather than focused.",
         "evidence that an ancient settlement combined stable local farming with long-distance trade."
       ],
       "correct": 3,
@@ -120,10 +120,10 @@
       "passage": "Wetlands filter sediment and absorb floodwater, yet for decades many were drained to expand farmland or build subdivisions. Recent hurricane damage along the Gulf Coast renewed interest in restoring coastal marshes as natural barriers. Engineers now construct shallow channels that mimic historic water flows, allowing native grasses to return. Property owners near restored sites sometimes worry about mosquitoes or restricted building, while ecologists point to reduced insurance claims after storms. The debate reflects a broader question: whether short-term land values should outweigh long-term protection.\n\nRestoration projects often begin with breaching small levees that farmers built generations ago to protect row crops. Water returning to historic channels can look messy to residents accustomed to open fields, and restored marshes may temporarily increase insect populations before predator balances return. Insurance data from one Louisiana parish showed lower repeat claims in blocks behind rebuilt wetlands, though economists caution that multiple storm factors influence payouts. The science is clear that wetlands absorb energy, but politics determines whether landowners accept short-term inconvenience for regional protection.",
       "stem": "The passage primarily discusses",
       "choices": [
-        "The passage supports the idea that why mosquitoes make wetland restoration impossible.",
+        "why mosquitoes make wetland restoration impossible rather than other competing explanations.",
         "tension between developing land and restoring wetlands for flood protection.",
-        "The passage supports the idea that the complete elimination of farming near the Gulf.",
-        "The passage supports the idea that proof that insurance companies always oppose."
+        "the complete elimination of farming near the Gulf, framed as exhaustive rather than focused.",
+        "proof that insurance companies always oppose, treated as conclusive in every similar case."
       ],
       "correct": 1,
       "explanation": "The passage centers on wetland restoration as flood protection and the competing interests involved."
@@ -162,10 +162,10 @@
       "passage": "Composting programs at large universities divert tons of food waste from landfills each semester. Dining halls scrape plates into bins labeled for organic material, and student volunteers monitor contamination from plastic utensils. The resulting compost fertilizes campus gardens that supply herbs to culinary courses. Facilities managers admit the system requires staff training and upfront sorting equipment, yet landfill fees have dropped enough to offset part of the cost. Environmental clubs use the program as a visible example of how daily habits can shrink a campus carbon footprint.\n\nCampus dining services track contamination rates weekly because a single load of plastic forks can ruin an entire compost batch. Student environmental clubs tour regional composting facilities to learn why sorting at the source matters more than wishful recycling. Herbs from campus gardens appear in cooking demonstrations that tie sustainability to nutrition courses. Some universities publish annual diversion rates in sustainability reports read by prospective students comparing schools. The programs require ongoing education because each incoming class must relearn which bins accept napkins versus plastic wrap.",
       "stem": "The passage is mainly concerned with",
       "choices": [
-        "The passage supports the idea that the failure of every campus recycling initiative.",
-        "The passage supports the idea that why culinary courses should stop using herbs.",
+        "the failure of every campus recycling initiative, framed as exhaustive rather than focused.",
+        "why culinary courses should stop using herbs rather than other competing explanations.",
         "how university composting reduces waste and supports broader sustainability goals.",
-        "The passage supports the idea that volunteers replacing all dining hall staff."
+        "volunteers replacing all dining hall staff in every related setting, with no exceptions."
       ],
       "correct": 2,
       "explanation": "The passage explains campus composting operations, costs, and environmental role."
@@ -204,9 +204,9 @@
       "passage": "Local journalism has shrunk as advertising moved online, leaving some counties without a daily reporter at courthouse meetings. Nonprofit newsrooms and university partnerships have filled gaps by hiring reporters who cover school budgets and zoning hearings. Readers donate small amounts or subscribe to email briefings rather than buying print editions. Editors argue that even thin coverage helps residents challenge inaccurate rumors on social media. The model is fragile, yet it keeps public decisions visible.\n\nNonprofit reporters often collaborate with law students to read lengthy zoning filings that volunteers could not finish alone. Email briefings summarize council votes in plain language because many subscribers never visit the website. When a county loses its last full-time reporter, misinformation about school closures or boil-water notices can spread faster than officials respond. Donor-supported models depend on annual fundraising drives that compete with other local charities. Editors insist that even two paragraphs about a budget hearing give residents factual anchors during heated social media threads.",
       "stem": "The primary purpose of the passage is to describe",
       "choices": [
-        "The passage supports the idea that why social media always provides accurate information.",
-        "The passage supports the idea that university students replacing elected officials at.",
-        "The passage supports the idea that the end of all print journalism in every county.",
+        "why social media always provides accurate information rather than other competing explanations.",
+        "university students replacing elected officials at in every related setting, with no exceptions.",
+        "the end of all print journalism in every county, framed as exhaustive rather than focused.",
         "efforts to sustain local news coverage after traditional newspapers declined."
       ],
       "correct": 3,
@@ -232,10 +232,10 @@
       "passage": "City councils debating short-term rental rules hear from homeowners who rely on guest income and from neighbors who complain about noise and lost housing stock. Some ordinances cap the number of nights a unit may be rented, require registration fees, and mandate local contact persons for complaints. Platform companies argue that strict limits reduce travel options for visitors. Planners try to balance tourism revenue with affordable housing goals, knowing enforcement often depends on neighbor reports rather than routine inspections.\n\nShort-term rental platforms collect occupancy taxes in some cities but not others, creating uneven enforcement landscapes. Housing advocates worry that investors buy multiple units solely for nightly guests, shrinking supply for long-term renters in popular neighborhoods. Homeowners who rent spare rooms occasionally argue that income helps them afford rising property taxes. Inspections are rare because staffing is limited; cities often respond only after repeated noise complaints. The policy challenge is distinguishing occasional home-sharing from commercial hotel-like operations without burdensome paperwork for ordinary residents.",
       "stem": "The passage mainly examines",
       "choices": [
-        "The passage supports the idea that neighbors' unanimous support for unlimited guest stays.",
+        "neighbors' unanimous support for unlimited guest stays in every related setting, with no exceptions.",
         "how cities regulate short-term rentals while weighing competing economic and housing concerns.",
-        "The passage supports the idea that proof that rental platforms enforce every local ordinance.",
-        "The passage supports the idea that why tourism should be banned in all residential neighborhoods."
+        "proof that rental platforms enforce every local ordinance, treated as conclusive in every similar case.",
+        "why tourism should be banned in all residential neighborhoods rather than other competing explanations."
       ],
       "correct": 1,
       "explanation": "The passage explores regulation trade-offs for short-term rentals."
@@ -275,9 +275,9 @@
       "stem": "The passage is primarily about",
       "choices": [
         "museums adopting interactive exhibits to engage visitors while debating educational depth.",
-        "The passage supports the idea that the elimination of all written labels in modern museums.",
-        "The passage supports the idea that proof that ticket sales no longer matter to any museum.",
-        "The passage supports the idea that why oral histories are less accurate than replica artifacts."
+        "the elimination of all written labels in modern museums, framed as exhaustive rather than focused.",
+        "proof that ticket sales no longer matter to any museum, treated as conclusive in every similar case.",
+        "why oral histories are less accurate than replica artifacts rather than other competing explanations."
       ],
       "correct": 0,
       "explanation": "The passage discusses interactive design, evaluation, and trade-offs."
@@ -358,10 +358,10 @@
       "passage": "Music therapy sessions in pediatric hospitals look nothing like concert hall performances. Therapists may help a child choose instruments, write lyrics about fear or pain, or simply hold rhythm while a parent sings. The goal is not mastery but expression and regulation—giving young patients a structured way to communicate when words alone fail.\n\nStudies link regular music therapy to reduced anxiety before procedures and shorter recovery times in some units, though results vary by diagnosis and session length. Critics caution against treating music as a miracle cure; it works best as part of a care team that includes nurses, psychologists, and family support. Still, families often report that sessions restore a sense of normalcy during long hospital stays.\n\nTherapists tailor sessions to developmental level: toddlers might explore rhythm with shakers while teens compose lyrics about isolation during long immunotherapy cycles. Hospital administrators track patient satisfaction scores and nursing requests for music consults when budgeting interdisciplinary services. The passage emphasizes that music therapy succeeds as part of a team model rather than as a standalone miracle intervention.",
       "stem": "The passage is mainly about",
       "choices": [
-        "The passage supports the idea that why concert halls should donate instruments to hospitals.",
+        "why concert halls should donate instruments to hospitals instead of more limited contributing factors.",
         "how music therapy supports hospitalized children as emotional and communicative care, not as performance training.",
-        "The passage supports the idea that proof that music therapy replaces all medical treatment.",
-        "The passage supports the idea that the history of every pediatric hospital in the country."
+        "proof that music therapy replaces all medical treatment, offered as final proof rather than a limited finding.",
+        "the history of every pediatric hospital in the country, treated as a universal rule rather than a limited claim."
       ],
       "correct": 1,
       "explanation": "The focus is music therapy's supportive role in hospitals, not performance or total medical replacement."
@@ -415,9 +415,9 @@
       "stem": "The passage is mainly about",
       "choices": [
         "why protecting migratory birds requires safeguarding entire flyways through international and local cooperation.",
-        "The passage supports the idea that proof that glass buildings do not harm birds.",
-        "The passage supports the idea that how baby birds learn to sing. Nearby examples are taken to confirm it completely.",
-        "The passage supports the idea that the exact magnetic field strength near the equator."
+        "proof that glass buildings do not harm birds, offered as final proof rather than a limited finding.",
+        "how baby birds learn to sing. Nearby examples are taken to confirm it completely in technical detail beyond the main focus.",
+        "the exact magnetic field strength near the equator, treated as a universal rule rather than a limited claim."
       ],
       "correct": 0,
       "explanation": "The thread is flyway dependence and cooperative protection across borders and landowners."
@@ -456,10 +456,10 @@
       "passage": "Community land trusts keep housing affordable by separating ownership of land from ownership of buildings. A nonprofit holds the land permanently while residents purchase or rent the structures on long-term leases. When owners sell, formulas cap resale prices so units remain accessible to moderate-income families instead of flipping to market rates.\n\nTrusts also give residents voice in maintenance decisions and protect against displacement when neighborhoods gentrify. Critics argue that price caps limit wealth building for individual sellers compared with market homeownership. Supporters reply that stable housing allows families to invest in education and health rather than chasing rising rents. The model works best where municipalities donate land or provide tax incentives for initial acquisition.\n\nResidents on long-term leases often serve on trust boards, shaping roof replacements, garden plots, and subletting rules that conventional landlords might ignore. Municipalities experimenting with trust models report slower displacement in hot housing markets, though scaling requires sustained public land donations and financing tools unfamiliar to commercial developers. The debate continues over balancing individual resale gains with community stability.",
       "stem": "The passage is mainly about",
       "choices": [
-        "The passage supports the idea that why all homeowners should sell to the highest bidder.",
+        "why all homeowners should sell to the highest bidder instead of more limited contributing factors across comparable cases.",
         "how community land trusts preserve affordable housing and resident stability through shared land ownership and resale limits.",
-        "The passage supports the idea that proof that gentrification never occurs in cities.",
-        "The passage supports the idea that why nonprofits cannot own property legally."
+        "proof that gentrification never occurs in cities, offered as final proof rather than a limited finding in similar situations.",
+        "why nonprofits cannot own property legally, treating that cause as decisive everywhere under like conditions."
       ],
       "correct": 1,
       "explanation": "The focus is the land-trust model, affordability mechanisms, and trade-offs."
@@ -470,9 +470,9 @@
       "passage": "Riverside Metro opened its first light-rail line in 2019, connecting the downtown arts district to suburban campuses and a regional hospital. Riders can board every twelve minutes during peak hours, and monthly passes cost less than two weeks of parking near the university. Early surveys found that students who switched from driving saved an average of forty minutes per day in commute time, though some riders still complain about crowded cars after evening concerts let out.\n\nCity planners argue the line was never meant to replace every car trip. Instead, it was designed to give commuters a reliable option on the routes where traffic jams were worst. Future extensions may reach the coastal ferry terminal, but funding depends on state grants that will not be decided until next spring.\n\nRidership dashboards show hospital-bound trips remain the most crowded after 4 p.m., while midmorning runs toward the arts district often have open seats. Transit advocates say uneven demand is normal for a young line and that modest schedule adjustments—not abandoning the project—are the reasonable next step.",
       "stem": "What is the main idea of this passage?",
       "choices": [
-        "The passage supports the idea that a plan to extend the line to every neighborhood regardless of cost.",
-        "The passage supports the idea that proof that light rail eliminates all traffic jams in the city.",
-        "The passage supports the idea that why the city should abandon public transit in favor of parking garages.",
+        "a plan to extend the line to every neighborhood regardless of cost that dismisses competing options and limits.",
+        "proof that light rail eliminates all traffic jams in the city, offered as final proof rather than a limited finding.",
+        "why the city should abandon public transit in favor of parking garages as if no other factor could matter at all.",
         "a new light-rail line that offers a reliable transit option on congested routes without replacing every car trip."
       ],
       "correct": 3,
@@ -484,9 +484,9 @@
       "passage": "When Lincoln High revived its jazz band after a decade without one, only nine students signed up. Director Ms. Okonkwo required members to learn basic improvisation before performing at games. Within two seasons, enrollment doubled, and the group earned invitations to two regional festivals.\n\nParents initially worried that jazz would distract from core academics. Ms. Okonkwo responded by scheduling early-morning rehearsals so they would not conflict with tutoring. She also paired each musician with a mentor from the local college music department. By senior year, three band members reported choosing music education majors, citing confidence built through solo performances.\n\nThe band's set list now includes one student arrangement each concert, chosen by vote rather than audition alone. Alumni who graduated before the revival have begun donating mouthpieces and music stands, treating the group as a small legacy worth maintaining even when budgets tighten.",
       "stem": "Which statement best summarizes the passage?",
       "choices": [
-        "The passage supports the idea that why jazz band should replace all academic classes at Lincoln High.",
-        "The passage supports the idea that proof that music programs always reduce student enrollment.",
-        "The passage supports the idea that a complaint that regional festivals harm school budgets.",
+        "why jazz band should replace all academic classes at Lincoln High rather than other competing explanations.",
+        "proof that music programs always reduce student enrollment, treated as conclusive in every similar case.",
+        "a complaint that regional festivals harm school budgets in every related setting, with no exceptions.",
         "how a revived jazz band grew through structured practice, mentoring, and inclusive scheduling."
       ],
       "correct": 3,
@@ -513,9 +513,9 @@
       "stem": "What is the central topic of the passage?",
       "choices": [
         "a coastal town's debate over living shoreline versus seawalls as erosion threatens public beach access.",
-        "The passage supports the idea that why seawalls are always the best solution for every beach.",
-        "The passage supports the idea that proof that tourism never matters in Harborview.",
-        "The passage supports the idea that a guide to building private docks on public land."
+        "why seawalls are always the best solution for every beach instead of more limited contributing factors.",
+        "proof that tourism never matters in Harborview, offered as final proof rather than a limited finding.",
+        "a guide to building private docks on public land far beyond the narrower point that fits the question."
       ],
       "correct": 0,
       "explanation": "Engineers, homeowners, environmentalists, and tourism interests disagree over how to respond to bluff erosion."
@@ -526,9 +526,9 @@
       "passage": "The ByteBridge coding club at Westridge Middle School meets twice weekly in a borrowed computer lab. Members start with block-based puzzles, then move to Python scripts that automate simple tasks like sorting club attendance. Last semester, a team built a cafeteria poll app that let students vote on lunch options without paper ballots.\n\nAdvisor Mr. Chen insists that the club is not only for students who already excel in math. He recruits quietly by visiting art and history classes, showing how code can generate music patterns or map historical trade routes. District data show club participants improved their science fair project scores at twice the rate of nonparticipants, though Mr. Chen cautions that many factors could explain that trend.\n\nDistrict administrators initially questioned whether the club duplicated existing math electives. Mr. Chen responded with a portfolio showing cross-curricular projects and invited them to observe a session where students mapped census data for a history fair display.",
       "stem": "Which title best fits this passage?",
       "choices": [
-        "The passage supports the idea that why coding clubs should replace all math courses.",
-        "The passage supports the idea that a list of cafeteria lunch options voted on by students.",
-        "The passage supports the idea that proof that only advanced math students can learn Python.",
+        "why coding clubs should replace all math courses instead of more limited contributing factors.",
+        "a list of cafeteria lunch options voted on by students in every related setting, with no exceptions.",
+        "proof that only advanced math students can learn Python, treated as conclusive in every similar case.",
         "how a school coding club welcomes diverse students and connects programming to other subjects."
       ],
       "correct": 3,
@@ -540,10 +540,10 @@
       "passage": "The Northfield Museum of Industry recently scanned three thousand blueprints from defunct textile mills. Visitors can now zoom in on gear ratios and boiler layouts on touch screens instead of handling fragile originals. Curator Dr. Patel says the digital archive helps researchers compare how factories adapted when steam power gave way to electric motors.\n\nNot every artifact translates well to a screen. The museum kept a full-size weaving loom on the floor so guests could hear its rhythmic clatter and feel the vibration through the platform. Patel argues that digital access and physical exhibits should complement each other: one offers searchable detail, the other preserves sensory context that photographs cannot fully convey.\n\nSchool groups visiting on Fridays receive scavenger hunts that ask them to match blueprint symbols to objects on the loom. Patel says the hybrid approach keeps younger visitors engaged while still offering depth for researchers who may never travel to Northfield in person.",
       "stem": "What is the main idea of the passage?",
       "choices": [
-        "The passage supports the idea that why museums should discard all physical artifacts.",
+        "why museums should discard all physical artifacts rather than other competing explanations.",
         "how a museum combines digital archives with hands-on exhibits to serve different audiences.",
-        "The passage supports the idea that proof that touch screens replace the need for curators.",
-        "The passage supports the idea that a biography of one nineteenth-century mill owner."
+        "proof that touch screens replace the need for curators, treated as conclusive in every similar case.",
+        "a biography of one nineteenth-century mill owner in every related setting, with no exceptions."
       ],
       "correct": 1,
       "explanation": "Dr. Patel argues digital detail and physical sensory experience should complement each other."
@@ -554,10 +554,10 @@
       "passage": "Metro United, a nonprofit adult soccer league, rents city park fields on Sunday afternoons. Teams pay sliding-scale fees so that income never blocks participation. Referees are volunteers trained in a single weekend clinic focused on safety and clear communication.\n\nCommissioner Rosa Mendez says the league's real goal is steady exercise and community ties, not scouting professional talent. After matches, players from opposing teams often share food at picnic tables, and Mendez tracks how many members report meeting neighbors they had never spoken with before joining. City parks staff credit the league with helping reduce vandalism on fields that once sat empty.\n\nThe league publishes a simple code of conduct emphasizing respect for referees and opposing fans. Mendez requires captains to shake hands at midfield and checks in with city staff after each season about field conditions and any incidents that need follow-up.",
       "stem": "Which statement best summarizes the passage?",
       "choices": [
-        "The passage supports the idea that why professional soccer teams should recruit from Sunday park leagues.",
+        "why professional soccer teams should recruit from Sunday park leagues instead of more limited contributing factors.",
         "a community soccer league focused on affordable access, exercise, and neighborhood connection rather than pro scouting.",
-        "The passage supports the idea that proof that sports always increase vandalism. The author offers little room for a competing view.",
-        "The passage supports the idea that a rulebook banning all spectators from city fields."
+        "proof that sports always increase vandalism. The author offers little room for a competing view, treated as conclusive in every similar case.",
+        "a rulebook banning all spectators from city fields, treated as a universal rule rather than a limited claim."
       ],
       "correct": 1,
       "explanation": "Sliding-scale fees, volunteer referees, postgame community ties, and reduced vandalism define the league's purpose."
@@ -568,10 +568,10 @@
       "passage": "Cover crops such as clover and rye are planted between rows of corn not for harvest but to protect soil. Their roots hold dirt in place during spring rains, and when mowed they add organic matter that retains moisture. A cooperative extension study across twelve counties found that fields with three years of cover cropping needed less synthetic fertilizer to reach the same yields.\n\nFarmers still weigh upfront seed costs and the extra planning required before planting season. Some rent equipment to roll down tall cover crops instead of tilling them under. Extension agents emphasize that cover cropping is a long-term investment: benefits accumulate slowly, but skipped seasons can undo progress on erosion control.\n\nParticipating farmers share equipment for rolling cover crops when wet springs make tilling risky. The cooperative also hosts a field day where newcomers walk plots side by side with veterans who describe how root structures changed after just two seasons of rye.",
       "stem": "The passage is mainly about",
       "choices": [
-        "The passage supports the idea that why farmers should never use synthetic fertilizer.",
-        "The passage supports the idea that proof that cover crops always increase yields in the first season.",
+        "why farmers should never use synthetic fertilizer rather than other competing explanations.",
+        "proof that cover crops always increase yields in the first season, treated as conclusive in every similar case.",
         "cover cropping as a long-term soil investment with costs, benefits, and shared equipment.",
-        "The passage supports the idea that a history of cooperative extension offices."
+        "a history of cooperative extension offices in every related setting, with no exceptions."
       ],
       "correct": 2,
       "explanation": "The passage explains soil protection, reduced fertilizer needs, upfront costs, and gradual gains."
@@ -582,10 +582,10 @@
       "passage": "Bayport's historic ferry once carried mail, livestock, and commuters across the inlet before a bridge opened in 1968. When tourism revived interest in the waterfront, volunteers restored the wooden vessel and launched summer sightseeing trips. Ticket sales fund ongoing hull repairs, and local high school students serve as deck guides narrating stories about canneries and shipbuilders.\n\nCity leaders debate whether to expand service into spring and fall for commuters who work across the inlet. Ferry supporters argue that seasonal workers already face long detours when bridge traffic backs up. Others worry that year-round operation would require subsidies if ticket revenue drops outside tourist months.\n\nWinter ridership drops sharply, which is why year-round service remains contested. Supporters circulate commute time maps showing forty-minute detours when bridge traffic stalls, arguing that reliability matters as much as scenery for residents who work shifts at the inlet clinic.",
       "stem": "What is the main idea of this passage?",
       "choices": [
-        "The passage supports the idea that a schedule of cannery operations before 1968 only.",
-        "The passage supports the idea that why bridges should replace all ferries immediately.",
+        "a schedule of cannery operations before 1968 only in every related setting, with no exceptions.",
+        "why bridges should replace all ferries immediately, treating that cause as decisive everywhere.",
         "Bayport's restored ferry as both a heritage attraction and a debated year-round transit option.",
-        "The passage supports the idea that proof that tourism destroyed Bayport's waterfront."
+        "proof that tourism destroyed Bayport's waterfront, treated as conclusive in every similar case."
       ],
       "correct": 2,
       "explanation": "Volunteers restored the ferry for tourism while leaders debate commuter service beyond summer months."
@@ -918,10 +918,10 @@
       "passage": "Marine biologists argue that sea otters help kelp forests recover by eating sea urchins that graze kelp down to stubs. In one cove where otters were reintroduced, urchin density dropped within two years and kelp canopy cover doubled. Nearby coves without otters showed no similar change over the same period.\n\nFishermen worry that booming kelp may hide gear and alter fish behavior, but the biologists emphasize that kelp forests shelter juvenile fish and buffer shorelines. They do not claim otters alone can restore every damaged coast. Water temperature and pollution still limit kelp growth in some bays regardless of urchin pressure.\n\nUnderwater surveys documented fish species returning to kelp shade within seasons, though cold-water upwelling events still limit expansion in some bays. Policy makers cite otter recovery as one tool within broader kelp restoration budgets that include urchin removal dives and water-quality monitoring. The biologists avoid claiming otters alone can restore every coastline facing warming seas.",
       "stem": "The cove study is used in the passage primarily to",
       "choices": [
-        "The passage supports the idea that prove that fishermen always oppose otters.",
-        "The passage supports the idea that show that kelp cannot grow in warm water.",
+        "prove that fishermen always oppose otters, beyond the more focused aim of the discussion.",
+        "show that kelp cannot grow in warm water without acknowledging limits or competing views.",
         "provide evidence that otter presence may reduce urchins and allow kelp recovery.",
-        "The passage supports the idea that argue that gear loss is the main coastal problem."
+        "argue that gear loss is the main coastal problem as if one absolute claim settled the whole issue."
       ],
       "correct": 2,
       "explanation": "The before/after cove comparison functions as evidence for the otter-kelp relationship."
@@ -960,10 +960,10 @@
       "passage": "Historians contend that the 1918 influenza pandemic accelerated women's entry into paid workforce roles because so many men were overseas and because nurses and clerks were desperately needed. Employment records from three industrial cities show women's factory hiring rose sharply in 1918 and remained higher than 1916 levels even after the war.\n\nOther scholars argue that many of those jobs were temporary and that lasting change owed more to later union campaigns and wartime propaganda that never fully retreated. They point out that some employers reverted to hiring preferences for men as soon as veterans returned. The debate turns on whether the pandemic period itself shifted norms or mainly created a short emergency opening.\n\nNewspaper archives from 1919 show editorial debates about whether women's workplace gains would persist, mirroring today's scholarship on temporary versus structural change. Census records later decades reveal uneven retention by race and region, complicating any single-cause story. Historians nonetheless treat 1918 employment spikes as crucial evidence in a larger argument about crisis openings.",
       "stem": "The employment records from three industrial cities are offered primarily to",
       "choices": [
-        "The passage supports the idea that prove that unions had no role in women's employment.",
-        "The passage supports the idea that show that nurses were the only workers needed in 1918.",
+        "prove that unions had no role in women's employment as if one absolute claim settled the whole issue.",
+        "show that nurses were the only workers needed in 1918 without acknowledging limits or competing views.",
         "support the claim that women's paid workforce participation rose during and after the pandemic period.",
-        "The passage supports the idea that demonstrate that veterans never returned to factories."
+        "demonstrate that veterans never returned to factories as the sole explanation for every similar outcome."
       ],
       "correct": 2,
       "explanation": "The records of rising hiring and sustained levels support the historians' workforce argument."
@@ -1086,10 +1086,10 @@
       "passage": "Urban forester Dr. Kim proposed planting drought-tolerant trees along bus stops to cool waiting riders. She measured surface temperatures on asphalt strips before and after planting at three pilot stops. Shaded areas averaged eleven degrees Fahrenheit cooler at noon than unshaded strips fifty feet away.\n\nTransit director Lopez supported the idea but noted that maintenance crews would need a map of new root zones before digging near buried cable lines.\n\nKim's team also logged rider comfort surveys at the pilot stops, finding that shaded waits received higher satisfaction scores even when actual wait times did not change. Lopez said comfort data could help prioritize which stops receive trees first. Maintenance maps will mark root zones before any digging near cables.\n\nTwo additional stops without trees will serve as comparison sites for temperature and satisfaction surveys through August. Kim emphasized that shade is one piece of a broader plan that includes real-time arrival displays and sidewalk repairs near busy corners.",
       "stem": "The temperature measurements are used primarily to",
       "choices": [
-        "The passage supports the idea that show that bus stops are always hotter than.",
-        "The passage supports the idea that prove that riders always prefer trees over shelters.",
+        "show that bus stops are always hotter than, beyond the more focused aim of the discussion.",
+        "prove that riders always prefer trees over shelters without acknowledging limits or competing views.",
         "support the claim that shade from trees can cool waiting areas at bus stops.",
-        "The passage supports the idea that demonstrate that maintenance crews need maps of."
+        "demonstrate that maintenance crews need maps of in every related setting, with no exceptions."
       ],
       "correct": 2,
       "explanation": "Eleven-degree cooler readings at shaded stops support Dr. Kim's cooling claim."
@@ -1478,9 +1478,9 @@
       "passage": "When the reservoir fell to ten percent capacity, the lakebed became a mosaic of cracked clay. Boats sat tilted on their keels, and dock pilings rose above empty air. Officials repeated that the drought was unprecedented in the century-long record, though the word did little to restore irrigation allotments.\n\nFarmers walked the exposed channels photographing old tree stumps that had drowned when the dam was first filled. The scene looked less like a lake than a desert floor waiting for rain.\n\n in surrounding sentences can infer shade of meaning from contrast, cause, and consequence rather than from dictionary definitions alone. Writers chose the wording deliberately to suggest attitude and expectation, not merely to decorate the paragraph. Understanding context therefore matters as much as memorizing synonyms when answering questions about meaning.\n\n into the sentence mentally shows which meaning preserves the author's intended logic.\n\nIrrigation districts downstream reduced allotments anyway, forcing orchard owners to fallow rows of citrus that had survived earlier dry spells. Meteorologists linked the streak to ocean temperature patterns, though political speeches rarely mention the technical reports filed each quarter.\n\nCounty officials posted historical rainfall charts in courthouse hallways, showing the current streak ranking among the driest since records began despite speeches calling the season unprecedented.",
       "stem": "The phrase \"a mosaic of cracked clay\" is best understood as",
       "choices": [
-        "The passage supports the idea that a literal art installation sponsored by the city.",
-        "The passage supports the idea that a scientific measure of water quality.",
-        "The passage supports the idea that proof that clay mining caused the drought.",
+        "a literal art installation sponsored by the city in every related setting, with no exceptions.",
+        "a scientific measure of water quality as the sole explanation for every similar outcome.",
+        "proof that clay mining caused the drought, treated as conclusive in every similar case.",
         "figurative language emphasizing how dry and fragmented the lakebed appeared."
       ],
       "correct": 3,
@@ -1884,9 +1884,9 @@
       "passage": "Section A summarizes lab safety rules. Section B diagrams equipment. Section C walks through the experiment timeline. Section D explains how to record uncertainty in measurements. Cross-references point readers back to safety when hazardous steps appear.\n\nSafety sections appear first because later steps reference hazardous chemicals and glassware. Equipment diagrams label parts students must identify on practical exams. Procedure timelines estimate durations so groups finish within lab periods. Uncertainty sections explain significant figures and repeat trials, linking data practices to graded reports.\n\nCross-references send readers back to safety sections when hazardous steps appear later in the experiment timeline. Equipment diagrams label parts students must identify on practical exams. Uncertainty sections explain significant figures linking data practices to graded lab reports.\n\nStudents who skip uncertainty sections often lose points when lab reports omit error analysis entirely.\n\nDepartment accreditation reviewers check whether lab manuals include uncertainty sections before renewing programs.",
       "stem": "Which best describes the document's structure?",
       "choices": [
-        "The passage supports the idea that alphabetical glossary of terms only.",
-        "The passage supports the idea that one uninterrupted personal narrative.",
-        "The passage supports the idea that series of unrelated jokes about lab mishaps.",
+        "alphabetical glossary of terms only in every related setting, with no exceptions.",
+        "one uninterrupted personal narrative as the sole explanation for every similar outcome.",
+        "series of unrelated jokes about lab mishaps regardless of local conditions or competing factors.",
         "modular sections that separate rules, tools, procedure, and data practice."
       ],
       "correct": 3,
@@ -2108,10 +2108,10 @@
       "passage": "The essay opens with a childhood memory of sorting recycling with a grandparent, shifts to municipal statistics about landfill growth, analyzes manufacturer responsibility laws in Europe, and closes by returning to the kitchen sorting bin as a symbol of shared habit.\n\nThat circular return is not decorative. It argues that large systems change only when daily rituals reinforce them. The personal frame bookends the policy analysis.\n\n guides attention: word choice, pacing, and organizational cues signal attitude toward the subject. Recognizing these signals helps readers predict what information will follow and why the passage is arranged in a particular order. Structure and tone work together rather than appearing as separate decorative layers.\n\n questions often ask how the writer's arrangement shapes meaning rather than what single fact appears first. Pay attention to shifts mid-passage that signal contrast or conclusion.\n\nPolicy sections compare European manufacturer responsibility laws with local proposals stalled in committee, showing how international models inform domestic debate. The return to the kitchen bin underscores that habits and law must align.",
       "stem": "The passage's structure primarily serves to",
       "choices": [
-        "The passage supports the idea that prove that childhood memories are always inaccurate.",
-        "The passage supports the idea that argue that Europe has no recycling laws.",
+        "prove that childhood memories are always inaccurate, beyond the more focused aim of the discussion.",
+        "argue that Europe has no recycling laws in exhaustive detail beyond the writer’s actual aim.",
         "connect personal habit to broader policy through a frame that opens and closes with the same image.",
-        "The passage supports the idea that list every landfill in alphabetical order."
+        "list every landfill in alphabetical order as if one absolute claim settled the whole issue."
       ],
       "correct": 2,
       "explanation": "Opening/closing with the sorting bin frames policy analysis with personal ritual."
@@ -2291,9 +2291,9 @@
       "stem": "What is the author's primary purpose?",
       "choices": [
         "to urge students to review cancellation terms before signing housing contracts.",
-        "The passage supports the idea that to advertise the most attractive residence halls on.",
-        "The passage supports the idea that to argue that all campus housing should be free.",
-        "The passage supports the idea that to describe the history of dormitory architecture."
+        "to advertise the most attractive residence halls on in every related setting, with no exceptions.",
+        "to argue that all campus housing should be free as the sole explanation for every similar outcome.",
+        "to describe the history of dormitory architecture regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "The passage directs attention to cancellation clauses to prevent disputes."
@@ -2305,9 +2305,9 @@
       "stem": "The author most likely wrote this passage to",
       "choices": [
         "explain factors behind a change in streetcar design during a specific period.",
-        "The passage supports the idea that persuade readers to boycott modern public transit.",
-        "The passage supports the idea that prove that enclosed streetcars were less safe than.",
-        "The passage supports the idea that list every city that operated streetcars in 1920."
+        "persuade readers to boycott modern public transit, beyond the more focused aim of the discussion.",
+        "prove that enclosed streetcars were less safe than without acknowledging limits or competing views.",
+        "list every city that operated streetcars in 1920 as if one absolute claim settled the whole issue."
       ],
       "correct": 0,
       "explanation": "The passage explains design change with cleanliness, safety, and labor context."
@@ -2388,10 +2388,10 @@
       "passage": "The plaque beside the restored wetland does not celebrate a famous general or donor name. It lists species reintroduced, water-quality targets, and a phone number for reporting illegal dumping. Designers wanted visitors to leave with measurable facts, not only an scenic view.\n\nGuided tours stop at the plaque so visitors learn measurable restoration targets before photographing birds. The phone number connects to a hotline staffed during business hours for reporting dump sites. Designers omitted donor names to emphasize community stewardship over individual legacy. Interpretive choices reflect broader trends toward science-forward signage in public lands.\n\nGuided tours pause at the plaque so visitors learn measurable restoration targets before photographing birds. Omitting donor names emphasizes community stewardship over individual legacy narratives. Designers wanted measurable facts, not only scenic views, to remain with visitors after they leave.\n\nSchool groups visiting the wetland complete worksheet questions tied to plaque statistics before lunch.",
       "stem": "The author most likely describes the plaque to",
       "choices": [
-        "The passage supports the idea that criticize visitors who enjoy scenic views.",
+        "criticize visitors who enjoy scenic views, beyond the more focused aim of the discussion.",
         "show how interpretive signage can emphasize ecological facts over hero narratives.",
-        "The passage supports the idea that argue that plaques should never include phone numbers.",
-        "The passage supports the idea that document every general who fought near the wetland."
+        "argue that plaques should never include phone numbers without acknowledging limits or competing views.",
+        "document every general who fought near the wetland in every related setting, with no exceptions."
       ],
       "correct": 1,
       "explanation": "Plaque content choices illustrate fact-focused signage purpose."
@@ -2472,10 +2472,10 @@
       "passage": "The coach's halftime talk did not review every play. She focused on one defensive adjustment—switching to a zone when opponents drive baseline—and asked players to call out switches aloud. Film study could wait; the second half needed a single fix everyone could remember.\n\nPlayers practiced calling switches aloud during a brief drill so second-half defense would not revert to old habits under fatigue. Film review scheduled for Monday would analyze whether the adjustment reduced baseline drives. The coach chose one fix because halftime attention spans cannot absorb lengthy play lists. Focus illustrates prioritization over comprehensive review in competitive settings.\n\nFilm review scheduled for Monday would analyze whether the defensive adjustment reduced baseline drives during the second half. The coach prioritized one memorable fix because halftime attention spans cannot absorb lengthy play lists. Players practiced calling switches aloud during a brief drill.",
       "stem": "What is the author's primary purpose?",
       "choices": [
-        "The passage supports the idea that describe the history of zone defenses.",
-        "The passage supports the idea that to list every play from the first half in order.",
+        "describe the history of zone defenses, beyond the more focused aim of the discussion.",
+        "to list every play from the first half in order in every related setting, with no exceptions.",
         "to illustrate how a coach prioritized one actionable adjustment at halftime.",
-        "The passage supports the idea that argue that film study is useless for basketball."
+        "argue that film study is useless for basketball without acknowledging limits or competing views."
       ],
       "correct": 2,
       "explanation": "Focus on one defensive change shows purpose of illustrating prioritized coaching."
@@ -2556,9 +2556,9 @@
       "passage": "Historians comparing treaty drafts note that one version guarantees 'free passage' on a river while another guarantees 'navigable use.' The difference shaped toll disputes for decades. Modern diplomats still argue that vague water language creates expensive courts cases long after signers leave office.\n\nToll disputes in the nineteenth century hinged on whether free passage included fishing rights or only commercial shipping. Court archives show decades of litigation over single adjectives inserted during treaty negotiations. Modern diplomats cite the case when urging precise definitions of navigable use, maintenance duties, and environmental flows. Wording choices outlive signers and shape national budgets long afterward.\n\nCourt archives show decades of litigation over single adjectives inserted during hurried treaty negotiations. Modern diplomats cite the case when urging precise definitions of navigable use and maintenance duties. Wording choices outlive signers and shape national budgets long afterward.",
       "stem": "The author most likely wrote this passage to",
       "choices": [
-        "The passage supports the idea that prove that all treaties are identical in meaning.",
-        "The passage supports the idea that list every court case decided in the last year.",
-        "The passage supports the idea that argue that rivers should never be shared between nations.",
+        "prove that all treaties are identical in meaning, beyond the more focused aim of the discussion.",
+        "list every court case decided in the last year without acknowledging limits or competing views.",
+        "argue that rivers should never be shared between nations as if one absolute claim settled the whole issue.",
         "highlight how small wording differences in treaties can have lasting legal consequences."
       ],
       "correct": 3,
@@ -2584,9 +2584,9 @@
       "passage": "Bioluminescent bays glow when microscopic dinoflagellates flash in response to movement. The light is chemical, not heat, and lasts only a moment. Tour guides sometimes stir the water with paddles so visitors can see the effect.\n\nScientists warn that sunscreen, boat fuel, and uncontrolled traffic can reduce dinoflagellate counts. Several bays have closed night tours or switched to electric boats to limit damage. The glow is fragile enough that protection measures matter as much as promotion.\n\n at a practical reader decision rather than abstract commentary alone. By emphasizing consequences and next steps, the author positions the passage as guidance grounded in real constraints. That pragmatic focus clarifies why certain details appear while others are omitted.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\nLocal regulations now cap daily tour boats in some bays after biologists linked propeller scarring to declining flash frequency among dinoflagellates. Visitors still gather at legal viewing spots, but guides emphasize rinsing gear and avoiding chemical lotions before wading.",
       "stem": "The author most likely wrote this passage to",
       "choices": [
-        "The passage supports the idea that sell paddleboards to tourists.",
-        "The passage supports the idea that criticize all tourism as evil.",
-        "The passage supports the idea that prove that dinoflagellates are fictional.",
+        "sell paddleboards to tourists as the sole explanation for every similar outcome.",
+        "criticize all tourism as evil as if one absolute claim settled the whole issue.",
+        "prove that dinoflagellates are fictional, beyond the more focused aim of the discussion.",
         "inform readers about how bioluminescent bays work and why they need protection."
       ],
       "correct": 3,
@@ -2598,9 +2598,9 @@
       "passage": "Consider two loan offers that look identical at six percent interest. If one compounds monthly and the other annually, the monthly compounding loan costs more over five years even though the advertised rate matches. Always compare annual percentage yield, not just the headline rate.\n\nLenders know busy shoppers skim brochures. Taking ten minutes with a calculator—or asking for a amortization table in writing—can prevent a difference of hundreds of dollars across the life of a modest car loan.\n\n at a practical reader decision rather than abstract commentary alone. By emphasizing consequences and next steps, the author positions the passage as guidance grounded in real constraints. That pragmatic focus clarifies why certain details appear while others are omitted.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\nDealership finance managers sometimes quote monthly payments without clarifying compounding, knowing shoppers compare only the visible number on the windshield sticker. Regulatory forms exist to disclose annual percentage yield, but they arrive late in the process unless buyers request them early.",
       "stem": "The author's primary purpose is to",
       "choices": [
-        "The passage supports the idea that argue that all loans should be banned.",
-        "The passage supports the idea that describe how brochures are printed.",
-        "The passage supports the idea that entertain readers with fictional characters.",
+        "argue that all loans should be banned, beyond the more focused aim of the discussion.",
+        "describe how brochures are printed without acknowledging limits or competing views.",
+        "entertain readers with fictional characters in every related setting, with no exceptions.",
         "warn borrowers to compare compounding frequency and APY, not just headline rates."
       ],
       "correct": 3,
@@ -2626,9 +2626,9 @@
       "passage": "Sleep-deprived drivers react as slowly as drivers near the legal alcohol limit, yet many people who would never drive drunk still commute after four hours of sleep. Rolling down windows and blasting music provide only brief alertness spikes, not sustained attention.\n\nIf you notice lane drift or missing exits, the safest fix is not another coffee but a twenty-minute nap or switching drivers. Arriving late beats not arriving.\n\n at a practical reader decision rather than abstract commentary alone. By emphasizing consequences and next steps, the author positions the passage as guidance grounded in real constraints. That pragmatic focus clarifies why certain details appear while others are omitted.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\nState highway patrol data link drowsy driving to single-vehicle run-off crashes that spike after daylight saving shifts and holiday travel weekends. Rest areas post signs reminding drivers that caffeine masks fatigue briefly but does not restore reaction time.",
       "stem": "The author's primary purpose is to",
       "choices": [
-        "The passage supports the idea that promote coffee brands.",
-        "The passage supports the idea that describe how car windows work.",
-        "The passage supports the idea that argue that alcohol and sleep loss are unrelated.",
+        "promote coffee brands, treated as a universal rule rather than a limited claim.",
+        "describe how car windows work in exhaustive detail beyond the writer’s actual aim.",
+        "argue that alcohol and sleep loss are unrelated, beyond the more focused aim of the discussion.",
         "persuade readers to take drowsy driving seriously and rest instead of relying on quick fixes."
       ],
       "correct": 3,
@@ -2654,10 +2654,10 @@
       "passage": "Before accepting a research fellowship abroad, confirm whether the stipend is paid monthly or in lump sums, whether housing is included, and how visa sponsorship works. Glossy brochures highlight landmarks; they rarely mention tax withholding or health insurance gaps.\n\nEmailing two current fellows often reveals practical realities faster than reading promotional PDFs. Polite, specific questions signal professionalism rather than doubt.\n\n at a practical reader decision rather than abstract commentary alone. By emphasizing consequences and next steps, the author positions the passage as guidance grounded in real constraints. That pragmatic focus clarifies why certain details appear while others are omitted.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\nTax treaties between countries may withhold portions of stipends unless fellows file forms they never received orientation about. Housing stipends that look generous on paper shrink quickly in cities where deposits and temporary lodging consume the first month's budget.",
       "stem": "The author's primary purpose is to",
       "choices": [
-        "The passage supports the idea that describe tourist landmarks only.",
+        "describe tourist landmarks only, beyond the more focused aim of the discussion.",
         "advise prospective fellows to investigate practical financial and visa details.",
-        "The passage supports the idea that advertise a specific fellowship program.",
-        "The passage supports the idea that discourage all international travel."
+        "advertise a specific fellowship program in every related setting, with no exceptions.",
+        "discourage all international travel without acknowledging limits or competing views."
       ],
       "correct": 1,
       "explanation": "Stipend, visa, and fellow-email advice aim to guide practical decision-making."
@@ -2696,10 +2696,10 @@
       "passage": "When interviewing for remote jobs, ask how performance is measured, how teams across time zones schedule overlap, and whether equipment is provided or reimbursed. Remote flexibility can hide always-on expectations unless boundaries are discussed upfront.\n\nClarity in the interview prevents resentment later. Treat those questions as standard, not suspicious.\n\n at a practical reader decision rather than abstract commentary alone. By emphasizing consequences and next steps, the author positions the passage as guidance grounded in real constraints. That pragmatic focus clarifies why certain details appear while others are omitted.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\n or persuasion typically open with stakes, supply reasons or steps, and close with implied action. Recognizing that pattern speeds identification of primary purpose.\n\nHuman resources teams sometimes assume applicants already know unwritten norms about response times on messaging apps during evenings and weekends. Clarifying reimbursement for home internet and ergonomic chairs prevents disputes after hiring packets are signed.",
       "stem": "The author most likely wrote this passage to",
       "choices": [
-        "The passage supports the idea that argue that remote work should be banned.",
+        "argue that remote work should be banned, beyond the more focused aim of the discussion.",
         "advise job seekers to clarify remote-work expectations during interviews.",
-        "The passage supports the idea that entertain with fictional office stories.",
-        "The passage supports the idea that sell laptop computers."
+        "entertain with fictional office stories in every related setting, with no exceptions.",
+        "sell laptop computers regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "Questions about measurement, overlap, and equipment advise clarifying remote expectations."
@@ -2710,10 +2710,10 @@
       "passage": "If you ride the express bus at 7:15 a.m., stand behind the painted line until passengers finish exiting. Blocking the door delays everyone and can cause the driver to miss a green light cycle. Bags belong on your lap or under the seat, not on an empty seat during rush hour.\n\nThese small habits keep boarding smooth and predictable for riders connecting to trains downtown.\n\nPrinted cards with the same reminders will appear inside buses next month because not every rider uses the agency app. Drivers appreciate the policy when boarding stays predictable before tight schedule points downtown. Small habits keep connections smooth.\n\nTransit ambassadors will demonstrate boarding lines at busy stops during the first week of school when freshmen carry oversized bags. The author argues that predictable habits matter most when crowds spike, not only on ordinary weekdays.\n\nAmbassadors will demo boarding lines during freshman move-in week when oversized bags slow queues; predictable habits matter most during spikes, not only on ordinary weekdays.",
       "stem": "What is the author's primary purpose?",
       "choices": [
-        "The passage supports the idea that advertise discounted tourist packages on the riverfront.",
+        "advertise discounted tourist packages on the riverfront in every related setting, with no exceptions.",
         "instruct riders on habits that keep express bus boarding smooth and predictable.",
-        "The passage supports the idea that complain that all transit should be free.",
-        "The passage supports the idea that describe the history of bus manufacturing."
+        "complain that all transit should be free as the sole explanation for every similar outcome.",
+        "describe the history of bus manufacturing, beyond the more focused aim of the discussion."
       ],
       "correct": 1,
       "explanation": "The passage gives concrete boarding and bag rules to protect schedules and connections."
@@ -2724,10 +2724,10 @@
       "passage": "Soil tests from the east field showed pH levels suitable for blueberries but too low for spinach. Extension agents recommend adding lime only after retesting in spring, because overcorrecting can lock out nutrients roots need.\n\nThe memo includes a table of target ranges and contact information for the county lab.\n\nThe memo ends with a calendar reminder that retesting should occur after spring thaw, when frost heave can skew surface samples. Agents offer office hours for farmers who want help interpreting the table. Overcorrecting pH can lock out nutrients roots need.\n\nFarmers who rotate livestock through pastures receive separate soil guidance because manure changes pH on a different timeline than lime. The memo cross-references that bulletin so readers do not apply blueberry advice to grazing fields by mistake.\n\nA cross-referenced bulletin warns against applying blueberry lime advice to grazing pastures where manure shifts pH on a different timeline than field crops.",
       "stem": "The author's main purpose is to",
       "choices": [
-        "The passage supports the idea that argue that spinach is the only crop worth planting.",
+        "argue that spinach is the only crop worth planting, beyond the more focused aim of the discussion.",
         "guide farmers on interpreting soil pH results and avoiding overcorrection.",
-        "The passage supports the idea that sell lime products to readers.",
-        "The passage supports the idea that discourage all soil testing."
+        "sell lime products to readers in every related setting, with no exceptions.",
+        "discourage all soil testing without acknowledging limits or competing views."
       ],
       "correct": 1,
       "explanation": "The memo explains pH findings, cautions about lime, and provides lab contact information."
@@ -2752,10 +2752,10 @@
       "passage": "Last year, three hikers needed rescue after attempting the cliff trail in sneakers during a freeze warning. Trails above the bluff remain open, but rangers now require traction devices when ice advisories are posted. Check the park website before dawn starts.\n\nThe goal is not to discourage winter hiking but to prevent predictable equipment failures.\n\nRangers stock loaner traction devices at the visitor center for a small deposit refunded upon return. They emphasize that the requirement applies only when ice advisories post, not on every cold day. Goal is preventing predictable equipment failures, not banning winter hiking.\n\nSearch-and-rescue volunteers helped draft the traction rule after reviewing reports from last year's ankle injuries on shaded switchbacks. Rangers emphasize education first but will turn hikers back who attempt the cliff trail in sneakers during posted advisories.\n\nRescue volunteers helped draft the traction rule after reviewing ankle-injury reports on shaded switchbacks; education comes first, but advisories will be enforced during ice postings.",
       "stem": "The author writes primarily to",
       "choices": [
-        "The passage supports the idea that close all trails permanently in winter.",
+        "close all trails permanently in winter in every related setting, with no exceptions.",
         "warn hikers to use traction devices during ice advisories on the cliff trail.",
-        "The passage supports the idea that promote sneaker sales at the visitor center.",
-        "The passage supports the idea that discourage all winter hiking regardless of equipment."
+        "promote sneaker sales at the visitor center as the sole explanation for every similar outcome.",
+        "discourage all winter hiking regardless of equipment, beyond the more focused aim of the discussion."
       ],
       "correct": 1,
       "explanation": "Rangers require traction when advisories post to prevent predictable equipment failures—not to ban hiking."
@@ -2766,9 +2766,9 @@
       "passage": "Consider two designs for the club's attendance app: one stores names on a single shared spreadsheet, the other uses login accounts with encrypted records. The spreadsheet is faster to build this weekend, but anyone with the link could edit or download member information.\n\nPresent both options to the officers vote Monday; include the security trade-off in your slides.\n\nOfficers must include estimated build time and who maintains each design after graduation. Mr. Chen wants the club to leave systems sustainable rather than clever for one weekend only. Present both options with the security trade-off Monday.\n\nThe officers' slide deck must show who owns data if officers graduate midyear and whether alumni can maintain servers after leaving. Mr. Chen wants Monday's vote to consider lifecycle costs, not only demo-day excitement.\n\nSlides must show who maintains servers if officers graduate midyear; Mr. Chen wants lifecycle costs considered, not only demo-day excitement, at Monday's vote.",
       "stem": "The author's primary purpose is to",
       "choices": [
-        "The passage supports the idea that eliminate all member data collection.",
-        "The passage supports the idea that order the club to build the spreadsheet immediately.",
-        "The passage supports the idea that discourage officers from presenting options.",
+        "eliminate all member data collection in every related setting, with no exceptions.",
+        "order the club to build the spreadsheet immediately as the sole explanation for every similar outcome.",
+        "discourage officers from presenting options, beyond the more focused aim of the discussion.",
         "prompt officers to compare app designs and vote with security trade-offs in mind."
       ],
       "correct": 3,
@@ -2794,9 +2794,9 @@
       "passage": "Our league does not exist to produce college recruits. We publish sliding-scale fees because a sport should not exclude neighbors who rent apartments. If you know a family hesitant to sign up, tell them about the equipment library where cleats and shin guards circulate for free.\n\nShare this paragraph in your team group chat before registration closes.\n\nRegistration forms now include a checkbox for families requesting fee assistance without a separate interview. Mendez says reducing paperwork removes one barrier that kept hesitant parents from showing up on the first practice night. Share the paragraph before registration closes.\n\nEquipment library volunteers inventory cleats weekly so families borrowing gear know sizes before first practice. Mendez believes removing hidden costs matters as much as lowering registration fees for renters who hesitate to ask for help.\n\nVolunteers inventory loaner cleats weekly so hesitant families know sizes before the first practice night, removing hidden costs beyond sliding-scale fees.",
       "stem": "The commissioner writes primarily to",
       "choices": [
-        "The passage supports the idea that raise fees for all families immediately.",
-        "The passage supports the idea that recruit professional scouts to the league.",
-        "The passage supports the idea that discourage neighbors from signing up.",
+        "raise fees for all families immediately far beyond the narrower point that fits the question.",
+        "recruit professional scouts to the league regardless of local conditions or competing factors.",
+        "discourage neighbors from signing up in exhaustive detail beyond the writer’s actual aim.",
         "encourage teams to share information about affordable registration and the equipment library."
       ],
       "correct": 3,
@@ -2808,10 +2808,10 @@
       "passage": "Podcast listeners trust you when you say where facts came from. If an athlete tells you an injury update, name the athlete and note whether a trainer confirmed it. If you only saw a rumor online, say so instead of presenting it as settled.\n\nThis episode template includes blank lines for sources beside each segment.\n\nAlvarez grades episodes partly on whether sources appear in the script before recording final audio. She tells students that attribution protects them when listeners repeat claims outside school. Name athletes and note whether trainers confirmed injury updates.\n\nEpisode templates now include a column for confirmation status beside each quoted source. Alvarez says labeling rumor as rumor protects student journalists when stories spread beyond the classroom website.\n\nStudents must list whether each interview quote was confirmed by a coach, trainer, or public record before recording final audio. Alvarez says listeners repeat claims at dinner tables, so unclear sourcing hurts credibility faster than a rough mix ever could.",
       "stem": "The author's primary purpose is to",
       "choices": [
-        "The passage supports the idea that eliminate all interviews from episodes.",
+        "eliminate all interviews from episodes in every related setting, with no exceptions.",
         "teach student journalists to attribute sources clearly in podcast scripts.",
-        "The passage supports the idea that discourage naming athletes in stories.",
-        "The passage supports the idea that argue that rumors should be presented as confirmed."
+        "discourage naming athletes in stories, beyond the more focused aim of the discussion.",
+        "argue that rumors should be presented as confirmed without acknowledging limits or competing views."
       ],
       "correct": 1,
       "explanation": "Alvarez requires naming sources and distinguishing confirmed updates from online rumor."
@@ -2836,10 +2836,10 @@
       "passage": "Before you vote on the park lighting project, compare monthly electricity estimates for LED fixtures versus older lamps. LEDs cost more upfront but use less power and fail less often on poles above the soccer field.\n\nThe attached chart translates kilowatt hours into dollars using last year's utility rates so the council compares equal units.\n\nFinance staff noted that maintenance labor for bulb replacement should be added to the comparison next month. Even without labor, council members said the chart gave them a shared baseline for discussion. LEDs fail less often on poles above the soccer field.\n\nParks staff will add estimated bulb-replacement labor to the chart after reviewing maintenance logs from the past five seasons. Council members requested equal units so LED proposals are not rejected solely because upfront costs look larger on first glance.\n\nFinance staff will add maintenance labor hours from the last five seasons before the council votes. Even without labor included, members said standardized kilowatt-hour costs beat comparing proposals in incompatible units that hide long-term savings.",
       "stem": "The author's main purpose is to",
       "choices": [
-        "The passage supports the idea that eliminate all lighting on soccer fields.",
-        "The passage supports the idea that argue that older lamps are always cheaper over five years.",
+        "eliminate all lighting on soccer fields in every related setting, with no exceptions.",
+        "argue that older lamps are always cheaper over five years, beyond the more focused aim of the discussion.",
         "help council members compare LED and older park lighting costs using equal units.",
-        "The passage supports the idea that discourage any financial analysis of utilities."
+        "discourage any financial analysis of utilities without acknowledging limits or competing views."
       ],
       "correct": 2,
       "explanation": "The chart converts kilowatt hours to dollars so the council can compare options fairly."
@@ -2920,10 +2920,10 @@
       "passage": "Arctic terns migrate farther than almost any other bird species, traveling from polar breeding grounds to Antarctic feeding waters each year. Because daylight hours fluctuate so dramatically near the poles, the birds rely on internal clocks and magnetic field cues rather than visible landmarks alone. Since magnetic intensity varies across oceans, scientists believe young terns learn portions of the route by following experienced adults during their first journey.\n\nTracking devices attached to tagged birds confirmed that many individuals cover more than forty-four thousand miles annually. As a result, researchers revised earlier estimates that had assumed shorter loop migrations. The new data also suggested that terns compensate for wind drift by adjusting altitude—a behavior not previously documented in long-distance seabirds.\n\nConservation biologists attached lightweight tags that record latitude without harming wing movement. Subsequently, the data revealed rest stops where coastal development threatens feeding grounds. For this reason, international agreements now protect certain mudflats previously treated as unimportant wasteland.",
       "stem": "Which sentence pair best illustrates cause and effect?",
       "choices": [
-        "The passage supports the idea that \"Arctic terns migrate farther...\" / \"Tracking devices attached to tagged birds confirmed\".",
-        "The passage supports the idea that \"Because daylight hours fluctuate...\" / \"scientists believe young terns learn portions of.",
+        "\"Arctic terns migrate farther...\" / \"Tracking devices attached to tagged birds confirmed\" in every related setting, with no exceptions.",
+        "\"Because daylight hours fluctuate...\" / \"scientists believe young terns learn portions of as the sole explanation for every similar outcome.",
         "\"Tracking devices... confirmed... more than forty-four thousand miles\" / \"researchers revised earlier estimates\".",
-        "The passage supports the idea that \"The new data also suggested...\" / \"a behavior not previously documented\"."
+        "\"The new data also suggested...\" / \"a behavior not previously documented\" regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "Accurate tracking data (cause) led researchers to revise their earlier migration estimates (effect). The \"Because\" sentence explains reasoning, not a documented outcome."
@@ -3186,9 +3186,9 @@
       "passage": "Photosynthesis converts light energy into chemical energy stored in sugars. Chlorophyll in plant leaves absorbs mostly red and blue wavelengths.\n\nGreen light is reflected, which is why many leaves appear green to human eyes.\n\n whether a clause explains, contrasts, exemplifies, or states a result of what came before. Transition words provide clues, but logical relationships sometimes appear without explicit signals. Careful readers track how each sentence advances or qualifies the line of thought.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\nChlorophyll molecules sit inside chloroplasts where stacked membranes increase surface area for light capture during bright midday hours. Shade-adapted plants sometimes carry additional pigments that broaden absorption beyond the narrow bands mentioned here.",
       "stem": "The third sentence",
       "choices": [
-        "The passage supports the idea that defines chemical energy.",
-        "The passage supports the idea that contradicts the first sentence about photosynthesis.",
-        "The passage supports the idea that introduces an unrelated topic about animals.",
+        "defines chemical energy, treated as a universal rule rather than a limited claim.",
+        "contradicts the first sentence about photosynthesis in every related setting, with no exceptions.",
+        "introduces an unrelated topic about animals as the sole explanation for every similar outcome.",
         "explains a visible result of the absorption process described in the second sentence."
       ],
       "correct": 3,
@@ -3242,10 +3242,10 @@
       "passage": "Rainforest soils are often thin because heavy rainfall leaches nutrients quickly. Farmers who clear forest for cattle sometimes abandon plots after a few seasons.\n\nIn contrast, indigenous agroforestry systems plant diverse crops under retained canopy, preserving soil structure and fertility longer.\n\n whether a clause explains, contrasts, exemplifies, or states a result of what came before. Transition words provide clues, but logical relationships sometimes appear without explicit signals. Careful readers track how each sentence advances or qualifies the line of thought.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\nCanopy shade reduces evaporation, slowing the nutrient leaching that already punishes cleared rainforest plots within a few planting seasons. Indigenous farmers interplant legumes that fix nitrogen while tree roots hold slopes during heavy rains.",
       "stem": "The phrase \"In contrast\" signals that agroforestry",
       "choices": [
-        "The passage supports the idea that is identical to cattle clearing.",
+        "is identical to cattle clearing as the sole explanation for every similar outcome.",
         "is presented as an alternative that avoids the quick depletion described earlier.",
-        "The passage supports the idea that requires no soil.",
-        "The passage supports the idea that happens only in deserts."
+        "requires no soil, treated as a universal rule rather than a limited claim.",
+        "happens only in deserts far beyond the narrower point that fits the question."
       ],
       "correct": 1,
       "explanation": "'In contrast' sets agroforestry against the depletion from clearing for cattle."
@@ -3256,10 +3256,10 @@
       "passage": "The judge ruled the evidence inadmissible because detectives questioned the suspect for six hours without recording the session. Prosecutors argued the confession was voluntary.\n\nWithout that confession, the state's timeline collapsed.\n\n whether a clause explains, contrasts, exemplifies, or states a result of what came before. Transition words provide clues, but logical relationships sometimes appear without explicit signals. Careful readers track how each sentence advances or qualifies the line of thought.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\n, restate the prior idea in your own words before evaluating the next sentence's role. That paraphrase step prevents mistaking shared topics for logical connection.\n\nDefense attorneys argued detectives violated recording statutes, while prosecutors maintained the confession described details unknown to the public. Appellate courts will decide whether the exclusion stands under recent precedent governing custodial interviews.",
       "stem": "The final sentence",
       "choices": [
-        "The passage supports the idea that introduces a new unrelated trial about contracts.",
+        "introduces a new unrelated trial about contracts in every related setting, with no exceptions.",
         "states a consequence of excluding the confession described in the first sentence.",
-        "The passage supports the idea that defines voluntary speech.",
-        "The passage supports the idea that reverses the judge's ruling."
+        "defines voluntary speech, treated as a universal rule rather than a limited claim.",
+        "reverses the judge's ruling far beyond the narrower point that fits the question."
       ],
       "correct": 1,
       "explanation": "Timeline collapse follows from losing the inadmissible confession."
@@ -3298,10 +3298,10 @@
       "passage": "Urban gardens shorten the distance food travels from harvest to plate. For example, the Westside plot delivered lettuce to a cafe three blocks away within two hours of picking.\n\nCafe chefs said shorter delivery windows let them serve leaves with less wilting, which customers noticed in side salads. The garden coordinator tracks miles saved as one metric in annual grant reports. For example, lettuce reached a cafe three blocks away within two hours.\n\nVolunteers weigh harvest bins before delivery and log miles driven, giving grant writers concrete numbers about local food miles saved. The example cafe three blocks away became a flagship story in the garden's annual report.\n\nGrant reports now log miles saved and pantry pounds delivered, turning the three-block cafe delivery into a flagship example of shortened food miles.\n\nPantry volunteers weigh bins at pickup and log odometer readings, giving grant writers hard numbers about local food miles. The three-block cafe delivery became a flagship story because customers noticed fresher leaves in side salads within hours of harvest.",
       "stem": "The second sentence functions as",
       "choices": [
-        "The passage supports the idea that a definition of the word lettuce.",
-        "The passage supports the idea that a counterargument against local food production.",
+        "a definition of the word lettuce in every related setting, with no exceptions.",
+        "a counterargument against local food production as the sole explanation for every similar outcome.",
         "a specific illustration of the claim that urban gardens shorten food miles.",
-        "The passage supports the idea that a conclusion that rejects the first sentence."
+        "a conclusion that rejects the first sentence regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "For example introduces lettuce delivered to a nearby cafe within two hours."
@@ -3313,9 +3313,9 @@
       "stem": "How does the second sentence relate to the first?",
       "choices": [
         "it explains requirements and costs of the digitization project mentioned in the first sentence.",
-        "The passage supports the idea that it contradicts the idea that digitization is possible.",
-        "The passage supports the idea that it introduces an unrelated topic about pottery workshops.",
-        "The passage supports the idea that it summarizes visitor satisfaction surveys."
+        "it contradicts the idea that digitization is possible in every related setting, with no exceptions.",
+        "it introduces an unrelated topic about pottery workshops as the sole explanation for every similar outcome.",
+        "it summarizes visitor satisfaction surveys regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Such a project would require staff time, storage, and copyright review—details of the proposal."
@@ -3383,9 +3383,9 @@
       "stem": "The second sentence",
       "choices": [
         "provides evidence supporting the claim that harbor towns depend on ferries in winter.",
-        "The passage supports the idea that contradicts the first sentence about ferry importance.",
-        "The passage supports the idea that defines the word harbor.",
-        "The passage supports the idea that introduces an unrelated summer tourism topic."
+        "contradicts the first sentence about ferry importance in every related setting, with no exceptions.",
+        "defines the word harbor, treated as a universal rule rather than a limited claim.",
+        "introduces an unrelated summer tourism topic as the sole explanation for every similar outcome."
       ],
       "correct": 0,
       "explanation": "Indeed reinforces the claim with doubled ticket sales when the highway closed for sanding."
@@ -3565,9 +3565,9 @@
       "stem": "The passage suggests Elena",
       "choices": [
         "is socially anxious but highly competent when structure allows her strengths to show.",
-        "The passage supports the idea that lacks intelligence and preparation skills.",
-        "The passage supports the idea that refuses to participate in any group projects.",
-        "The passage supports the idea that prefers pep rallies to detailed planning."
+        "lacks intelligence and preparation skills in every related setting, with no exceptions.",
+        "refuses to participate in any group projects as the sole explanation for every similar outcome.",
+        "prefers pep rallies to detailed planning regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Rehearsed greetings, silent note-taking, and precise twelve-minute presentation show anxiety offset by competence in structured tasks."
@@ -3830,10 +3830,10 @@
       "passage": "Every Saturday, Elena arrived at the community garden an hour before the posted work time. She watered seedlings others forgot, labeled tools that wandered between plots, and never posted photos of her tasks online. When a new member asked why she kept coming, Elena shrugged and said the quiet rows helped her think after a loud week at the restaurant where she managed evening shifts.\n\nShe declined leadership titles twice, insisting she was not a speech maker. Still, when frost threatened, Elena was the one who texted everyone to cover tender plants, and people showed up because they trusted she would already be there with burlap and stakes.\n\nShe keeps spare gloves and hand tools in a labeled crate anyone may borrow, though she rarely announces the donations she makes to the compost fund. New members often assume she is paid staff until she laughs and points to her restaurant apron still hanging on the tool shed hook.",
       "stem": "Based on the passage, Elena is motivated mainly by",
       "choices": [
-        "The passage supports the idea that avoiding all contact with other members.",
-        "The passage supports the idea that desire to become the garden's paid director.",
+        "avoiding all contact with other members in every related setting, with no exceptions.",
+        "desire to become the garden's paid director as the sole explanation for every similar outcome.",
         "personal peace and quiet care for the garden rather than public recognition.",
-        "The passage supports the idea that planning to sell the plots for profit."
+        "planning to sell the plots for profit regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "Elena arrives early, declines titles, and says quiet rows help her think after loud restaurant shifts."
@@ -3872,10 +3872,10 @@
       "passage": "On the ferry, deckhand Jonah remembered names of commuters who boarded daily but never announced it. When a regular dropped a folder of job applications near the ramp, Jonah stored it in the wheelhouse and waited on the pier next morning until she returned, even though that meant skipping his coffee break.\n\nAsked later why he bothered, Jonah said the ferry was the town's moving porch: people noticed when you treated their routines as worth remembering.\n\nCommuters began leaving thank-you notes on the wheelhouse door for returned items and timely departures during fog delays. Jonah never posted those notes online, saying trust on a small ferry mattered more than publicity.\n\nWhen fog delayed the morning run, Jonah walked the pier explaining revised times rather than shrugging from the wheelhouse. Commuters said that courtesy mattered as much as the schedule itself on days when the inlet disappeared into gray air.",
       "stem": "Jonah's behavior indicates he values",
       "choices": [
-        "The passage supports the idea that strict enforcement of ticket prices.",
-        "The passage supports the idea that publicity and online fame for good deeds.",
+        "strict enforcement of ticket prices in every related setting, with no exceptions.",
+        "publicity and online fame for good deeds as the sole explanation for every similar outcome.",
         "remembering commuters' routines and treating small acts of service as important.",
-        "The passage supports the idea that avoiding all conversation with regular riders."
+        "avoiding all conversation with regular riders regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "Jonah stores a lost folder, skips coffee to return it, and calls the ferry a moving porch."
@@ -3900,9 +3900,9 @@
       "passage": "Violinist Amir refused to solo at the benefit concert unless the youth orchestra, not just the senior quartet, shared the stage. He argued donors should see the whole program's progress, especially students who had begun on rental instruments midyear.\n\nThe director feared time limits; Amir proposed trimming his own piece rather than cutting ensemble members. On the night of the concert, he stood at the back during bows so younger players stood forward.\n\nDonors at the concert mentioned they would fund rental instruments more generously after seeing the full ensemble on stage. Amir later mentored two beginners in sectional rehearsals but still declined solo encores at community events.\n\nSectionals he led focused on listening across parts rather than solo flashiness, matching his belief that ensemble musicianship should be visible to donors. He still practices hours weekly but refuses encores that would push younger players off stage.",
       "stem": "Amir's decisions suggest he is motivated by",
       "choices": [
-        "The passage supports the idea that winning solo encores at every concert.",
-        "The passage supports the idea that refusing to rehearse with beginners.",
-        "The passage supports the idea that cutting younger players from the benefit program.",
+        "winning solo encores at every concert in every related setting, with no exceptions.",
+        "refusing to rehearse with beginners as the sole explanation for every similar outcome.",
+        "cutting younger players from the benefit program regardless of local conditions or competing factors.",
         "showcasing the whole ensemble's progress rather than spotlighting himself."
       ],
       "correct": 3,
@@ -3914,10 +3914,10 @@
       "passage": "Farmhand Rosa argued against harvesting the hillside orchard during a heat wave, even though orders were backlogged. She showed the manager shriveled berries from a test bucket and predicted worse losses if pickers rushed in afternoon sun.\n\nThe manager agreed to start at dawn and rotate crews under shade tents Rosa had sewn from old greenhouse cloth. Workers later said Rosa could have stayed silent and earned piece-rate bonuses, but she said losing a whole block would hurt everyone next season.\n\nOrders fulfilled after the schedule change arrived with fewer crushed berries, according to the manager's quality log. Rosa's piece-rate earnings dipped that week, a trade she said she would make again to protect the hillside block.\n\nManagers later asked Rosa to train new pickers on heat safety after her dawn schedule reduced bruising losses. She agreed, saying short-term pay cuts are worthwhile when they protect fruit quality the whole co-op sells.",
       "stem": "Rosa's recommendation reveals that she",
       "choices": [
-        "The passage supports the idea that wants to avoid all work during heat waves.",
+        "wants to avoid all work during heat waves in every related setting, with no exceptions.",
         "prioritizes long-term crop quality and crew welfare over immediate piece-rate pay.",
-        "The passage supports the idea that seeks to cancel every order in the backlog.",
-        "The passage supports the idea that cares only about her personal bonus."
+        "seeks to cancel every order in the backlog as the sole explanation for every similar outcome.",
+        "cares only about her personal bonus regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "She warns about shriveled berries, proposes dawn picks and shade tents, and accepts lower piece-rate earnings."
@@ -3942,10 +3942,10 @@
       "passage": "Soccer captain Nia noticed a freshman sitting alone after practice and invited her to walk to the bus stop, even though Nia usually drove home with upperclassmen. When the freshman made a risky pass in the next match, Nia clapped instead of groaning, later explaining that confidence grows faster when mistakes are not punished in public.\n\nTeammates began copying the habit, and the coach credited Nia with changing bench body language more than any speech.\n\nThe freshman later assisted on a goal in a later match and credited Nia with convincing her to stay on the team when she considered quitting. Nia told the coach she remembered her own lonely first season and did not want history to repeat.\n\nWhen upperclassmen mocked a freshman error in practice, Nia stopped drills until captains apologized publicly. She told the coach that culture sticks when leaders interrupt mockery, not when they give speeches about teamwork.",
       "stem": "Nia's behavior suggests her leadership style is",
       "choices": [
-        "The passage supports the idea that authoritarian and punishing toward all mistakes.",
+        "authoritarian and punishing toward all mistakes in every related setting, with no exceptions.",
         "supportive and inclusive, building confidence through small public actions.",
-        "The passage supports the idea that indifferent to freshmen on the team.",
-        "The passage supports the idea that focused only on personal scoring records."
+        "indifferent to freshmen on the team as the sole explanation for every similar outcome.",
+        "focused only on personal scoring records regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "Nia walks a freshman to the bus, applauds risky passes, and stops drills when mockery occurs."
@@ -4027,9 +4027,9 @@
       "stem": "Text 2 relates to Text 1 by",
       "choices": [
         "accepting short-term help while arguing for broader infrastructure fixes.",
-        "The passage supports the idea that rejecting any role for libraries in access.",
-        "The passage supports the idea that claiming telehealth requires no internet.",
-        "The passage supports the idea that proving rural counties have universal broadband."
+        "rejecting any role for libraries in access in every related setting, with no exceptions.",
+        "claiming telehealth requires no internet as the sole explanation for every similar outcome.",
+        "proving rural counties have universal broadband regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Text 2 calls hotspots a useful patch but insists lasting fiber investment is the real solution."
@@ -4041,9 +4041,9 @@
       "stem": "The speakers primarily disagree about",
       "choices": [
         "whether zoos are an acceptable conservation strategy versus focusing on wild habitat.",
-        "The passage supports the idea that whether researchers study disease.",
-        "The passage supports the idea that whether any endangered species exist.",
-        "The passage supports the idea that whether amphibians live in forests."
+        "whether researchers study disease regardless of local conditions or competing factors.",
+        "whether any endangered species exist as the sole explanation for every similar outcome.",
+        "whether amphibians live in forests far beyond the narrower point that fits the question."
       ],
       "correct": 0,
       "explanation": "Speaker 1 credits accredited zoos for breeding and research; Speaker 2 prioritizes wild habitat over captivity."
@@ -4082,9 +4082,9 @@
       "passage": "Speaker 1: Universal basic income pilots show recipients spending funds on rent, tuition, and small business supplies rather than quitting work en masse. Predictable cash reduces stress that drives costly emergency borrowing.\n\nSpeaker 2: Pilot programs are short and privately funded; scaling nationwide would require tax increases many voters reject. Work requirements in existing safety nets encourage labor force attachment. Large unconditional payments risk inflation if supply chains cannot respond.\n\nSpeaker 1 described recipients using stipends to leave predatory loans and finish credential programs. Speaker 2 asked whether permanent programs should replace housing vouchers or stack atop them. Fiscal analysts note that pilot generosity may not scale without trade-offs that voters have not yet faced.\n\nBasic income pilots reported recipients paying down predatory loans and finishing credentials. Scaling nationwide raises questions about tax increases and inflation risks. Analysts caution pilot generosity may not transfer cleanly to permanent programs.",
       "stem": "Speaker 2's concerns center most on",
       "choices": [
-        "The passage supports the idea that eliminating all existing safety nets without.",
-        "The passage supports the idea that proving that recipients always quit working.",
-        "The passage supports the idea that denying that stress affects borrowing.",
+        "eliminating all existing safety nets without in every related setting, with no exceptions.",
+        "proving that recipients always quit working as the sole explanation for every similar outcome.",
+        "denying that stress affects borrowing regardless of local conditions or competing factors.",
         "scalability, funding, and macroeconomic effects beyond pilot success stories."
       ],
       "correct": 3,
@@ -4152,10 +4152,10 @@
       "passage": "Text 1: Citizen science projects let volunteers classify galaxy images and monitor local creek quality, expanding data collection beyond professional labs. Participants gain STEM confidence while scientists receive labeled datasets at scale.\n\nText 2: Volunteer classifications require expert verification to avoid biased samples when enthusiasts cluster in wealthy neighborhoods. Projects must train contributors in protocol and compensate indigenous knowledge holders rather than treating communities as free labor for academic publications.\n\nText 1 praised volunteers who classified galaxies faster than a small lab staff could alone. Text 2 warned that affluent volunteers oversampled certain creeks while ignoring industrial neighborhoods. Designers now stratify sampling tasks and credit indigenous partners as co-authors when local knowledge guides protocols.\n\nVolunteers classified galaxies faster than small professional teams alone. Sampling bias appeared when enthusiasts clustered in wealthy neighborhoods. Protocol training and co-authorship with indigenous partners address fairness concerns.",
       "stem": "Text 2 warns that citizen science programs risk",
       "choices": [
-        "The passage supports the idea that teaching volunteers anything about science.",
-        "The passage supports the idea that collecting any data whatsoever.",
+        "teaching volunteers anything about science in every related setting, with no exceptions.",
+        "collecting any data whatsoever as the sole explanation for every similar outcome.",
         "biased sampling and exploitation without proper training and compensation.",
-        "The passage supports the idea that monitoring creek quality in any form."
+        "monitoring creek quality in any form regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "Text 2 flags verification needs, sampling bias, and fair treatment of communities—not rejecting citizen science outright."
@@ -4208,9 +4208,9 @@
       "passage": "Speaker 1: Open educational resources lower textbook costs and let professors remix materials to match local examples, improving access for first-generation students.\n\nSpeaker 2: Free online textbooks sometimes lack accessibility features required by disability law, and updating editions depends on volunteer time. Institutions should fund professional editing and ADA compliance rather than assuming free equals equitable.\n\nSpeaker 1 noted professors updating open texts each semester with local case studies at no student charge. Speaker 2 described screen-reader failures in volunteer-built files that excluded blind learners until funded remediation. Both want lower costs but dispute whether \"open\" automatically means equitable access.\n\nOpen textbooks let professors remix examples for local contexts at no charge. Volunteer-built files sometimes lack screen-reader accessibility required by law. Institutions debate funding professional editing rather than assuming free equals equitable.\n\nDisability offices fund remediation sprints when open textbooks fail automated accessibility scans before semester starts.",
       "stem": "Speaker 2 argues that \"free\" resources may still be inequitable because",
       "choices": [
-        "The passage supports the idea that local examples are illegal in textbooks.",
-        "The passage supports the idea that professors never customize materials.",
-        "The passage supports the idea that first-generation students never attend college.",
+        "local examples are illegal in textbooks in every related setting, with no exceptions.",
+        "professors never customize materials as the sole explanation for every similar outcome.",
+        "first-generation students never attend college regardless of local conditions or competing factors.",
         "they can lack professional accessibility support and sustainable updating."
       ],
       "correct": 3,
@@ -4376,10 +4376,10 @@
       "passage": "Essay 1: Urban tree planting programs reduce heat and storm runoff while beautifying neighborhoods. Canopy cover lowers sidewalk temperatures on blocks where asphalt previously radiated heat into apartments without air conditioning. Stormwater models show mature trees intercept rainfall that would otherwise overwhelm combined sewer systems during cloudbursts. Shade also encourages walking and playground use during summer afternoons when exposed metal equipment becomes unsafe to touch.\n\nEssay 2: Tree planting without maintenance budgets wastes money; saplings die in drought if nobody waters them, and root damage can heave sidewalks if species are chosen poorly. Cities that launched publicity campaigns without arborist staffing watched young trees fail within two summers, leaving stumps that blocked wheelchair routes. Species selection must account for soil compaction, utility lines, and long-term pruning contracts. Residents who expect instant canopy may oppose young trees that look sparse for years before maturing.",
       "stem": "Essay 2 relates to Essay 1 by",
       "choices": [
-        "The passage supports the idea that denying that trees affect heat.",
+        "denying that trees affect heat in every related setting, with no exceptions.",
         "qualifying Essay 1's optimism with maintenance and planning requirements.",
-        "The passage supports the idea that proving cities cannot plant trees.",
-        "The passage supports the idea that changing the topic to ocean fishing."
+        "proving cities cannot plant trees as the sole explanation for every similar outcome.",
+        "changing the topic to ocean fishing regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "Essay 2 adds maintenance/species caveats to Essay 1's benefits."
@@ -4418,10 +4418,10 @@
       "passage": "Passage A: High school coding clubs should compete in hackathons because deadlines teach teams to ship working prototypes under pressure.\n\nPassage B: Hackathons reward flashy demos over maintainable code; clubs should also schedule code reviews and documentation nights so projects survive after competitions.\n\nPassage A cites a team that fixed a last-minute bug minutes before judges arrived. Passage B shares that story but adds the same team later struggled to update the app because comments were missing from their repository. Both texts assume clubs should prepare students for real software work, not only weekend demos.\n\nPassage A treats hackathon deadlines as motivation to ship prototypes. Passage B accepts that motivation but warns that repos without comments and reviews may collapse after judges leave.\n\nBoth texts assume clubs should teach durable software habits; Passage B warns repos without comments collapse after judges leave even when demos succeed.",
       "stem": "Passage B relates to Passage A by",
       "choices": [
-        "The passage supports the idea that arguing documentation never matters in software.",
-        "The passage supports the idea that opposing all coding competitions.",
+        "arguing documentation never matters in software in every related setting, with no exceptions.",
+        "opposing all coding competitions far beyond the narrower point that fits the question.",
         "accepting hackathon deadlines while urging maintainable code practices beyond demo day.",
-        "The passage supports the idea that proving hackathons always produce perfect long-term apps."
+        "proving hackathons always produce perfect long-term apps as the sole explanation for every similar outcome."
       ],
       "correct": 2,
       "explanation": "Passage B shares Passage A's deadline lesson but warns repos without comments fail after judges leave."
@@ -4432,10 +4432,10 @@
       "passage": "Passage A: Light rail expansion is worth the construction disruption because reliable transit attracts employers and reduces car traffic on clogged corridors.\n\nPassage B: Employers follow skilled workers and affordable housing, not tracks alone. Without zoning for apartments near stations, trains may run half empty.\n\nPassage A cites a city where a new line correlated with two employer relocations near a station. Passage B replies that those employers also received tax incentives independent of transit funding, complicating simple cause-and-effect claims. Both agree transit and housing policy interact; they disagree on which lever matters more alone.\n\nPassage A presents rail as an employer magnet along clogged corridors. Passage B agrees employers follow workers but adds that apartments near stations determine whether trains run full or empty.\n\nPassage A cites employer moves near stations; Passage B cites tax incentives and housing zoning as confounding factors that rail alone cannot explain.",
       "stem": "What is the primary point of disagreement?",
       "choices": [
-        "The passage supports the idea that whether any city has traffic congestion.",
+        "whether any city has traffic congestion in every related setting, with no exceptions.",
         "whether rail alone attracts employers or must be paired with housing near stations.",
-        "The passage supports the idea that whether employers ever relocate.",
-        "The passage supports the idea that whether tax incentives exist anywhere."
+        "whether employers ever relocate regardless of local conditions or competing factors.",
+        "whether tax incentives exist anywhere as the sole explanation for every similar outcome."
       ],
       "correct": 1,
       "explanation": "Passage A credits tracks; Passage B insists apartments near stations determine ridership and employer follow-through."
@@ -4488,10 +4488,10 @@
       "passage": "Passage A: Youth soccer leagues should keep scores unpublished for ages under ten so kids focus on skills, not standings.\n\nPassage B: Unpublished scores do not fool kids who know the result; better to publish scores but ban postgame lecturing from sideline parents.\n\nPassage A cites surveys where some young players said they stopped checking standings when coaches stopped posting them. Passage B replies those same surveys show sideline shouting, not scoreboards, ranked highest on players' stress lists. Both care about youth stress; they target different causes-hidden scores versus sideline behavior.\n\nPassage A believes unpublished scores reduce pressure for under-tens. Passage B says kids know the score anyway and urges leagues to police loud sideline coaching instead.\n\nPassage A targets hidden standings; Passage B cites survey data ranking sideline shouting as the top stressor among the same age group.\n\nPassage A cites players who stopped checking standings when coaches hid scores; Passage B cites the same surveys ranking sideline shouting as the top stressor. Both seek lower pressure but target different causes—scoreboards versus adult behavior.",
       "stem": "The speakers primarily disagree about",
       "choices": [
-        "The passage supports the idea that whether coaches should teach skills.",
-        "The passage supports the idea that whether soccer exists for children under ten.",
+        "whether coaches should teach skills in every related setting, with no exceptions.",
+        "whether soccer exists for children under ten as the sole explanation for every similar outcome.",
         "whether hiding scores or policing sideline behavior better reduces youth stress.",
-        "The passage supports the idea that whether parents attend games."
+        "whether parents attend games regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "Passage A targets unpublished standings; Passage B says kids know scores and sideline shouting causes more stress."
@@ -4516,9 +4516,9 @@
       "passage": "Passage A: Student podcasts teach research skills because hosts must verify facts before publishing episodes to classmates and parents.\n\nPassage B: Podcasts can spread rumors quickly if teachers skip source checks; written scripts with citations should be required before recording final audio.\n\nPassage A describes students correcting a statistic after a teacher questioned an interview quote. Passage B argues that process should be mandatory so corrections happen before publication rather than after classmates share episodes online. Both value research skills podcasts can teach; Passage B demands citations before recording final audio.\n\nPassage A describes students fixing a stat after teacher questioning. Passage B wants citations required before recording so corrections happen upstream, not after episodes circulate.\n\nPassage A praises corrected stats after teacher questioning; Passage B requires source lines before recording so fixes happen upstream of publication.\n\nPassage A praises students who corrected a statistic after a teacher questioned a quote; Passage B requires source lines in scripts before recording so fixes happen upstream. Both value research skills podcasts can teach with different process safeguards.",
       "stem": "Passage B relates to Passage A by",
       "choices": [
-        "The passage supports the idea that arguing research skills cannot be taught through audio.",
-        "The passage supports the idea that banning all student podcasts.",
-        "The passage supports the idea that proving teachers never review student work.",
+        "arguing research skills cannot be taught through audio in every related setting, with no exceptions.",
+        "banning all student podcasts, treated as a universal rule rather than a limited claim.",
+        "proving teachers never review student work as the sole explanation for every similar outcome.",
         "requiring source citations before recording so corrections happen before publication."
       ],
       "correct": 3,
@@ -5105,9 +5105,9 @@
       "stem": "The flyer is flawed primarily because it",
       "choices": [
         "presents only two extreme outcomes while ignoring gradual or mixed policy options.",
-        "The passage supports the idea that uses too much technical jargon about pedestrian traffic.",
-        "The passage supports the idea that offers too many compromise solutions within the flyer.",
-        "The passage supports the idea that relies on personal attacks against shop owners."
+        "uses too much technical jargon about pedestrian traffic in every related setting, with no exceptions.",
+        "offers too many compromise solutions within the flyer as the sole explanation for every similar outcome.",
+        "relies on personal attacks against shop owners regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "\"Either... or... no middle ground\" is a false dilemma; planners describe phased and mixed alternatives."
@@ -5118,9 +5118,9 @@
       "passage": "During a zoning hearing, developer Mara Lin presented traffic studies and stormwater models supporting a mixed-use project. Council member Boone replied, \"You live in a gated community across town, so your numbers cannot be trusted.\" Boone did not ask questions about the methodology or compare the models with city engineers' reviews, which largely confirmed Lin's projections.\n\nCity engineers later published a memo largely confirming Lin's stormwater projections with minor adjustments. Boone did not attend the technical briefing where those confirmations were explained. Residents asked why personal residence replaced methodology in council discourse.\n\nCity engineers confirmed stormwater models with minor adjustments in memos. Boone skipped technical briefings where confirmations were explained. Residents asked why residence replaced methodology in debate.\n\nStormwater peer review notes are public record and were available before the zoning vote.\n\nIndependent engineers posted stormwater confirmations online two days before the council vote on Mara's mixed-use proposal.",
       "stem": "Boone's response is best classified as",
       "choices": [
-        "The passage supports the idea that a thorough critique of the traffic methodology.",
-        "The passage supports the idea that a statistical meta-analysis of peer-reviewed studies.",
-        "The passage supports the idea that a weak analogy between stormwater and housing prices.",
+        "a thorough critique of the traffic methodology in every related setting, with no exceptions.",
+        "a statistical meta-analysis of peer-reviewed studies as the sole explanation for every similar outcome.",
+        "a weak analogy between stormwater and housing prices regardless of local conditions or competing factors.",
         "an ad hominem attack that dismisses evidence based on the speaker's residence."
       ],
       "correct": 3,
@@ -5133,9 +5133,9 @@
       "stem": "The central weakness in Jonas's argument is",
       "choices": [
         "a weak analogy that treats fundamentally different financial systems as identical.",
-        "The passage supports the idea that excessive reliance on peer-reviewed bridge engineering.",
-        "The passage supports the idea that refusal to mention coffee or household expenses.",
-        "The passage supports the idea that too much support for countercyclical spending theory."
+        "excessive reliance on peer-reviewed bridge engineering in every related setting, with no exceptions.",
+        "refusal to mention coffee or household expenses as the sole explanation for every similar outcome.",
+        "too much support for countercyclical spending theory regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Personal checkbook rules do not map cleanly onto national fiscal policy—a weak analogy driving unsupported conclusions."
@@ -5160,10 +5160,10 @@
       "passage": "Sports commentator Dale said, \"Team A lost because they wore dark jerseys. They lost twice last season in dark jerseys too. Dark jerseys cause losses.\" Team A actually lost more games in light jerseys that season, and analysts attributed recent losses to injured starters and schedule strength. Dale's segment aired before injury reports were updated.\n\nTeam statisticians published win-loss records by jersey color showing no significant correlation. Dale continued promoting the dark-jersey narrative on social media despite the corrected tables. Fans debated whether entertainment commentary should face the same accuracy standards as news reporting.\n\nWin-loss tables by jersey color showed no significant correlation. Dale continued dark-jersey claims despite corrected statistics. Fans debated entertainment versus news accuracy standards.\n\nLeague offices publish uniform schedules independent of color superstitions promoted on entertainment shows.\n\nTeam statisticians released jersey-color tables showing losses clustered in away games regardless of uniform shade.",
       "stem": "Dale's claim exemplifies",
       "choices": [
-        "The passage supports the idea that a false dilemma between two jersey colors mandated by league.",
-        "The passage supports the idea that a peer-reviewed study of fabric aerodynamics.",
+        "a false dilemma between two jersey colors mandated by league in every related setting, with no exceptions.",
+        "a peer-reviewed study of fabric aerodynamics as the sole explanation for every similar outcome.",
         "a hasty generalization based on cherry-picked examples while ignoring broader evidence.",
-        "The passage supports the idea that a nuanced comparison of home and away performance metrics."
+        "a nuanced comparison of home and away performance metrics regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "Selecting two dark-jersey losses and ignoring more losses in light jerseys is hasty generalization."
@@ -5174,10 +5174,10 @@
       "passage": "Parent advocate Singh testified: \"We must either restore every cut arts program this month or admit we hate children.\" School board members noted bond timelines, phased hiring, and partnerships with community theaters that could restore some courses within a year. Singh's supporters booed when members mentioned budget spreadsheets.\n\nBoard members displayed phased hiring timelines funded by existing bonds. Community theater partnerships offered interim arts access while full programs restored gradually. Singh's binary framing left no room for those intermediate steps during testimony.\n\nBond-funded modular rooms already lowered class sizes gradually. Community theater partnerships provided interim arts access. Singh's binary framing excluded phased restoration paths described in board documents.\n\nArts restoration timelines appear in bond transparency documents voters approved two years earlier.\n\nBoard attorneys read bond language aloud showing phased arts restoration timelines voters already approved.\n\nSingh ignored phased timelines printed in the board packet before issuing her binary ultimatum on arts funding.",
       "stem": "Singh's testimony relies on",
       "choices": [
-        "The passage supports the idea that a weak analogy between theater partnerships and.",
-        "The passage supports the idea that statistical sampling of nationwide curriculum standards.",
+        "a weak analogy between theater partnerships and in every related setting, with no exceptions.",
+        "statistical sampling of nationwide curriculum standards as the sole explanation for every similar outcome.",
         "a false dilemma that frames partial or phased restoration as hatred of children.",
-        "The passage supports the idea that verified longitudinal test-score data about music."
+        "verified longitudinal test-score data about music regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "\"Either restore everything now or admit we hate children\" ignores phased and partnership options—a false dilemma."
@@ -5188,10 +5188,10 @@
       "passage": "Senator Cruz dismissed climate legislation by saying, \"My colleague drives a large SUV, so her bill cannot be sincere.\" The colleague had listed vehicle efficiency standards, grid modernization funding, and methane monitoring in the bill text. Cruz did not cite any line-item costs or independent budget scoring in his reply.\n\nBudget analysts scored individual bill provisions without referencing the colleague's vehicle. Environmental groups praised methane monitoring funds separately from vehicle debates. Cruz did not address those scores in subsequent interviews.\n\nThe bill listed vehicle standards, grid funds, and methane monitoring separately. Cruz cited the SUV without addressing line-item scoring. Budget analysts published independent cost projections ignored in his reply.\n\nClimate bills undergo committee scoring weeks before floor debates about personal vehicles.\n\nCommittee staff distributed bill summaries listing methane monitoring funds separate from personal vehicle debates.\n\nIndependent scoring memos listed methane provisions Cruz never addressed while attacking his colleague's personal vehicle.",
       "stem": "Cruz's reply is flawed because it",
       "choices": [
-        "The passage supports the idea that offers a weak analogy between methane and vehicle tires.",
+        "offers a weak analogy between methane and vehicle tires in every related setting, with no exceptions.",
         "attacks the colleague's personal vehicle choice instead of addressing the bill's provisions.",
-        "The passage supports the idea that provides excessive independent budget scoring.",
-        "The passage supports the idea that summarizes grid modernization too accurately."
+        "provides excessive independent budget scoring as the sole explanation for every similar outcome.",
+        "summarizes grid modernization too accurately regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "Dismissing legislation because the author drives an SUV is ad hominem, not policy analysis."
@@ -5203,9 +5203,9 @@
       "stem": "The headline's reasoning is weak chiefly due to",
       "choices": [
         "a weak analogy that equates complex educational technology with animal road accidents.",
-        "The passage supports the idea that too much longitudinal data about pilot programs.",
-        "The passage supports the idea that a false dilemma between laptops and textbooks only.",
-        "The passage supports the idea that rigorous cost-benefit analysis of device carts."
+        "too much longitudinal data about pilot programs in every related setting, with no exceptions.",
+        "a false dilemma between laptops and textbooks only as the sole explanation for every similar outcome.",
+        "rigorous cost-benefit analysis of device carts regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Squirrels on highways do not logically model smartphone policy in classrooms—a weak analogy."
@@ -5216,10 +5216,10 @@
       "passage": "After one startup missed earnings, analyst Pruitt wrote, \"The entire green-energy sector is collapsing.\" Other firms in the sector had reported record orders, and the missed earnings stemmed from a supplier fire rather than customer cancellations. Pruitt's firm held short positions in several renewable stocks.\n\nSector analysts listed rising order backlogs at multiple firms the same quarter. Pruitt's firm profited when renewable stocks dipped after his segment aired. Regulatory bodies remind analysts to disclose short positions when making sweeping sector claims.\n\nOther green-energy firms reported record orders the same quarter. Pruitt's firm held short positions benefiting from sector dips. Analysts must disclose conflicts when declaring entire sectors collapsing.\n\nSecurities disclosures require analysts to note holdings that profit from sector-wide panic statements.\n\nMarket regulators flagged Pruitt's undisclosed short positions the week his sector-collapse commentary aired nationally.\n\nQuarterly order backlogs at rival firms contradicted Pruitt's sweeping collapse narrative during the same earnings season.",
       "stem": "Pruitt's conclusion primarily reflects",
       "choices": [
-        "The passage supports the idea that a false dilemma between fossil fuels and nuclear power only.",
-        "The passage supports the idea that a meta-analysis of quarterly reports across fifty nations.",
+        "a false dilemma between fossil fuels and nuclear power only in every related setting, with no exceptions.",
+        "a meta-analysis of quarterly reports across fifty nations as the sole explanation for every similar outcome.",
         "an unsupported leap from a single company's supplier issue to an entire sector collapse.",
-        "The passage supports the idea that ad hominem attacks on startup founders' college majors."
+        "ad hominem attacks on startup founders' college majors regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "One supplier-fire miss becomes \"entire sector collapsing\" despite record orders elsewhere—unsupported leap."
@@ -5231,9 +5231,9 @@
       "stem": "Ward's argument is weakest because it",
       "choices": [
         "generalizes from a single yawn to reject broader schedule changes without data.",
-        "The passage supports the idea that uses too many controlled studies about adolescent.",
-        "The passage supports the idea that presents a false dilemma between assembly and.",
-        "The passage supports the idea that attacks students' character with unrelated criminal."
+        "uses too many controlled studies about adolescent in every related setting, with no exceptions.",
+        "presents a false dilemma between assembly and as the sole explanation for every similar outcome.",
+        "attacks students' character with unrelated criminal regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "One visible yawn stands in for all teenagers—a hasty generalization ignoring survey and pilot data."
@@ -5259,9 +5259,9 @@
       "stem": "Ellis's tactic is best described as",
       "choices": [
         "ad hominem that discredits evidence by attacking employment history rather than data.",
-        "The passage supports the idea that a weak analogy between slides and advertising jingles.",
-        "The passage supports the idea that a false dilemma between vaccines and nutrition counseling.",
-        "The passage supports the idea that a hasty generalization from one trial to all medicine."
+        "a weak analogy between slides and advertising jingles in every related setting, with no exceptions.",
+        "a false dilemma between vaccines and nutrition counseling as the sole explanation for every similar outcome.",
+        "a hasty generalization from one trial to all medicine regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Prior employment is used to dismiss evidence without engaging citations—ad hominem."
@@ -5272,10 +5272,10 @@
       "passage": "Mayor Glenn argued: \"City government should run like my family barbecue—whoever shouts loudest decides, and we never write anything down.\" Council attorneys noted that public meetings require published agendas, open records, and appeal processes unlike informal cookouts. Glenn's proposal lacked accountability measures.\n\nOpen-meeting laws require published agendas and minutes unlike informal cookouts. Attorneys explained appeal rights available to residents who dispute zoning decisions. Glenn's analogy omitted those safeguards central to democratic oversight.\n\nOpen-meeting laws require agendas and appeals unlike family cookouts. Attorneys explained records residents use to challenge zoning decisions. Glenn's analogy omitted transparency safeguards central to public agencies.\n\nMunicipal attorneys circulated open-meeting checklists rejecting barbecue-style decision making.\n\nCity clerks explained appeal procedures that barbecue analogies omit when discussing zoning transparency requirements.\n\nPublished agendas and appeal rights distinguish public meetings from Glenn's informal barbecue decision model. Attorneys warned that ignoring those safeguards undermines democratic oversight of zoning decisions.",
       "stem": "The barbecue comparison is problematic because it",
       "choices": [
-        "The passage supports the idea that commits a hasty generalization about all family gatherings.",
+        "commits a hasty generalization about all family gatherings in every related setting, with no exceptions.",
         "relies on a weak analogy that ignores legal transparency requirements for public agencies.",
-        "The passage supports the idea that provides too much detail about open records statutes.",
-        "The passage supports the idea that is a false dilemma between grilling and baking only."
+        "provides too much detail about open records statutes as the sole explanation for every similar outcome.",
+        "is a false dilemma between grilling and baking only regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "Informal barbecue decision-making does not map onto governed public meetings—a weak analogy."
@@ -5286,10 +5286,10 @@
       "passage": "Tech CEO Vance watched one employee use a translation app during a client call and declared, \"Artificial intelligence has solved global language barriers forever.\" The call still required human clarification of contract terms, and the app mistranslated two legal phrases flagged by compliance staff.\n\nCompliance staff flagged two legal phrases requiring human clarification despite app assistance. Translators noted apps help routine phrases but struggle with contract nuance. Vance's announcement ignored those limitations when declaring permanent global success.\n\nCompliance staff flagged mistranslated legal phrases despite app assistance. Human interpreters still clarify contract nuance apps mishandle. One partially successful call cannot prove global language barriers solved forever.\n\nInterpreter unions document contract clauses that still require human review of legal terminology.\n\nHospital compliance logs show two legal phrases required human revision despite translation-app assistance during the call.\n\nCompliance officers documented mistranslations Vance ignored when declaring permanent global language-barrier resolution.",
       "stem": "Vance's declaration makes",
       "choices": [
-        "The passage supports the idea that ad hominem attacks on compliance staff.",
+        "ad hominem attacks on compliance staff, treated as a universal rule rather than a limited claim.",
         "an unsupported leap from a helpful tool in one call to permanent global resolution of language barriers.",
-        "The passage supports the idea that a false dilemma between translation apps and human interpreters only.",
-        "The passage supports the idea that a hasty generalization from two legal phrases to all languages."
+        "a false dilemma between translation apps and human interpreters only in every related setting, with no exceptions.",
+        "a hasty generalization from two legal phrases to all languages as the sole explanation for every similar outcome."
       ],
       "correct": 1,
       "explanation": "One partially successful app use becomes \"solved global language barriers forever\"—an unsupported leap."
@@ -5314,10 +5314,10 @@
       "passage": "School board candidate Orta mailed flyers stating, \"Vote for me, or classroom sizes will never improve anywhere.\" Incumbent records showed bond measures had already funded modular classrooms reducing averages by four students over two years. Orta's plan lacked cost estimates for further reductions.\n\nIncumbent records documented modular classrooms funded by voter-approved bonds. Orta's flyer did not acknowledge those reductions or future bond options. Parents asked for costed plans rather than ultimatums tied to one candidate.\n\nBond measures already funded modular rooms lowering averages slightly. Orta's flyer ignored existing gains and future bond options. Parents requested costed plans instead of election ultimatums.\n\nModular classroom invoices are audited annually and available on the district website.\n\nAudited bond invoices show modular classrooms lowered averages before Orta's ultimatum flyer reached mailboxes.\n\nVoters reviewed audited modular-classroom invoices months before Orta's mailbox ultimatum about class sizes.",
       "stem": "Orta's flyer uses",
       "choices": [
-        "The passage supports the idea that a weak analogy between modular classrooms and sports.",
-        "The passage supports the idea that ad hominem slurs about teachers' unions.",
+        "a weak analogy between modular classrooms and sports in every related setting, with no exceptions.",
+        "ad hominem slurs about teachers' unions as the sole explanation for every similar outcome.",
         "a false dilemma that treats her election as the only possible path to improvement.",
-        "The passage supports the idea that a hasty generalization from one classroom to all subjects."
+        "a hasty generalization from one classroom to all subjects regardless of local conditions or competing factors."
       ],
       "correct": 2,
       "explanation": "\"Vote for me or sizes never improve\" ignores existing gains and other policy paths—a false dilemma."
@@ -5329,9 +5329,9 @@
       "stem": "Duarte's remark is primarily",
       "choices": [
         "an ad hominem attack on Patel's housing status instead of her cited data.",
-        "The passage supports the idea that a weak analogy between rent and mortgage interest.",
-        "The passage supports the idea that a hasty generalization from one building to all.",
-        "The passage supports the idea that a false dilemma between tenants and homeowners."
+        "a weak analogy between rent and mortgage interest in every related setting, with no exceptions.",
+        "a hasty generalization from one building to all as the sole explanation for every similar outcome.",
+        "a false dilemma between tenants and homeowners regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Patel's renter status does not refute her data—ad hominem dismissal."
@@ -5342,9 +5342,9 @@
       "passage": "Editorial writer Moss claimed democracy is doomed because \"one protest turned violent, just like a cracked vase that can never hold water again.\" Historians responding online noted peaceful transfers of power after larger unrest in prior decades and institutional reforms that followed riots.\n\nHistorians cited institutional reforms after prior unrest that strengthened voting access. Moss's vase analogy appeared in headlines but not in peer-reviewed political science journals. Editorial boards later clarified metaphors are not substitutes for evidence.\n\nHistorians documented reforms after prior unrest strengthening voting access. Moss's vase metaphor oversimplified institutional resilience. Editorial boards cautioned metaphors are not substitutes for evidence.\n\nPost-unrest reforms included voting access expansions documented in state archives.\n\nState archives document voting-access reforms enacted after prior unrest, contradicting vase-fragility metaphors about democracy.\n\nArchival voting reforms after prior unrest contradicted Moss's claim that democracies shatter like vases. Historians noted institutions adapted through policy rather than disappearing after past violence.",
       "stem": "Moss's editorial relies on",
       "choices": [
-        "The passage supports the idea that ad hominem insults toward all protesters.",
-        "The passage supports the idea that too much archival evidence about peaceful.",
-        "The passage supports the idea that a false dilemma between voting and jury service.",
+        "ad hominem insults toward all protesters in every related setting, with no exceptions.",
+        "too much archival evidence about peaceful as the sole explanation for every similar outcome.",
+        "a false dilemma between voting and jury service regardless of local conditions or competing factors.",
         "a weak analogy between a fragile vase and complex democratic institutions."
       ],
       "correct": 3,
@@ -5482,10 +5482,10 @@
       "passage": "Claim: The city should ban plastic bags because they litter streets. Counter: People will litter something else instead, so bans accomplish nothing.\n\nResponse: Reducing the most common litter item still lowers cleanup tons even if some litter remains. Perfect elimination is not the bar; improvement is.\n\n, evidence, and framing devices that shape how audiences interpret facts. Identifying the strategy clarifies what the author wants readers to accept or reconsider. Rhetorical analysis therefore examines not only what is said but how the saying is arranged to influence judgment.\n\n, reframing, or counterargument responses. Name the move the author makes, then match it to the choice that describes function rather than topic alone.\n\n, reframing, or counterargument responses. Name the move the author makes, then match it to the choice that describes function rather than topic alone.\n\nCleanup crews in pilot cities reported fewer plastic bag tangles in storm drains after partial bans even though snack wrappers remained common along bus routes. Environmental economists model incremental litter reduction rather than absolute elimination.",
       "stem": "The response to the counterargument chiefly",
       "choices": [
-        "The passage supports the idea that accepts that litter is impossible to reduce.",
-        "The passage supports the idea that changes topic to glass bottles only.",
+        "accepts that litter is impossible to reduce in every related setting, with no exceptions.",
+        "changes topic to glass bottles only as the sole explanation for every similar outcome.",
         "argues partial improvement is worthwhile even if litter does not vanish entirely.",
-        "The passage supports the idea that proves people never litter."
+        "proves people never litter far beyond the narrower point that fits the question."
       ],
       "correct": 2,
       "explanation": "'Perfect elimination is not the bar; improvement is' rebuts the all-or-nothing counter."
@@ -5497,9 +5497,9 @@
       "stem": "The author's primary rhetorical move is to",
       "choices": [
         "challenge inevitability claims by noting alternatives existed before signing.",
-        "The passage supports the idea that argue all talks should be secret.",
-        "The passage supports the idea that prove students never study history.",
-        "The passage supports the idea that praise the treaty as flawless."
+        "argue all talks should be secret, beyond the more focused aim of the discussion.",
+        "prove students never study history without acknowledging limits or competing views.",
+        "praise the treaty as flawless as if one absolute claim settled the whole issue."
       ],
       "correct": 0,
       "explanation": "Listing alternatives before signing undermines post-hoc 'inevitability' rhetoric."
@@ -5524,10 +5524,10 @@
       "passage": "Opponents say the community farm is too small to matter. But a single plot that feeds forty families each month matters to those forty families, and their neighbors see fewer empty lots collecting trash.\n\nThe author acknowledges the farm alone will not replace regional food systems but argues local scale is the wrong measuring stick for neighborhood benefits. Opponents are portrayed as applying an unfair standard.\n\nForty families receiving produce monthly is modest regionally yet significant locally, the author insists. Trash reductions on formerly vacant blocks supply additional neighborhood evidence opponents overlook when dismissing scale.\n\nTrash reductions on once-vacant blocks supplement pantry totals when opponents dismiss the farm as too small to matter regionally.\n\nPantry deliveries and litter reductions on once-vacant blocks supply neighborhood evidence opponents ignore when they dismiss the farm as too small regionally. The author reframes scale by measuring obligations met, not only hectares covered.",
       "stem": "The author refutes the opponents mainly by",
       "choices": [
-        "The passage supports the idea that claiming forty families is too large to matter.",
+        "claiming forty families is too large to matter in every related setting, with no exceptions.",
         "reframing the measuring standard to show local benefits opponents dismiss.",
-        "The passage supports the idea that admitting the farm cannot feed anyone.",
-        "The passage supports the idea that ignoring opponents entirely."
+        "admitting the farm cannot feed anyone as the sole explanation for every similar outcome.",
+        "ignoring opponents entirely regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "The author says regional scale is the wrong yardstick for neighborhood food and trash reduction."
@@ -5539,9 +5539,9 @@
       "stem": "The author's argument relies primarily on",
       "choices": [
         "weighing long-term maintenance and canceled-practice costs against upfront LED expense.",
-        "The passage supports the idea that appealing only to nostalgia for old lamps.",
-        "The passage supports the idea that citing unrelated school budget cuts.",
-        "The passage supports the idea that rejecting all cost comparisons."
+        "appealing only to nostalgia for old lamps in every related setting, with no exceptions.",
+        "citing unrelated school budget cuts regardless of local conditions or competing factors.",
+        "rejecting all cost comparisons, treated as a universal rule rather than a limited claim."
       ],
       "correct": 0,
       "explanation": "Maintenance visits, dark-field outages, and a five-year break-even projection support LED adoption."
@@ -5552,10 +5552,10 @@
       "passage": "Some say teenagers cannot handle publishing podcasts because they might spread rumors. That standard would also ban student newspapers, yearbook captions, and classroom presentations unless adults write every sentence.\n\nThe author adds that supervised publication teaches source checking rather than eliminating student voice. Adults already review content in existing forums without writing every word, undermining the rumor fear.\n\nBanning podcasts because of rumor risk would logically extend to newspapers and presentations unless adults write every sentence, the author argues. Supervised publication becomes the proposed middle path rather than silence.\n\nSupervised podcasts teach source checking like existing newspapers already do; banning them would require adults to write every student sentence logically.\n\nSupervised publication teaches checking sources, the author insists, rather than silencing student journalists. Extending rumor fears logically to newspapers and classroom talks would require adults to author every student sentence, a reductio the piece rejects.",
       "stem": "Which logical move does the author make?",
       "choices": [
-        "The passage supports the idea that presenting a survey with no connection to the claim.",
-        "The passage supports the idea that citing dictionary definitions only.",
+        "presenting a survey with no connection to the claim in every related setting, with no exceptions.",
+        "citing dictionary definitions only far beyond the narrower point that fits the question.",
         "reductio ad absurdum—extending the rumor standard to ban other supervised student speech.",
-        "The passage supports the idea that attacking teenagers personally."
+        "attacking teenagers personally, treated as a universal rule rather than a limited claim."
       ],
       "correct": 2,
       "explanation": "If podcasts must be banned for rumor risk, the same standard would ban newspapers and presentations."
@@ -5567,9 +5567,9 @@
       "stem": "The analogy primarily supports which claim?",
       "choices": [
         "oyster reefs function as dual-purpose coastal infrastructure, not mere nostalgia.",
-        "The passage supports the idea that concrete walls filter water better than reefs.",
-        "The passage supports the idea that reefs are useless during storms.",
-        "The passage supports the idea that restoration is only about fishing stories."
+        "concrete walls filter water better than reefs in every related setting, with no exceptions.",
+        "reefs are useless during storms as the sole explanation for every similar outcome.",
+        "restoration is only about fishing stories regardless of local conditions or competing factors."
       ],
       "correct": 0,
       "explanation": "Reefs blunt waves like breakwaters while filtering water—jobs a wall cannot do simultaneously."
@@ -5595,9 +5595,9 @@
       "stem": "The rebuttal strengthens the claim by",
       "choices": [
         "showing bus ridership fell after rail opened, suggesting mode shift rather than duplicate trips.",
-        "The passage supports the idea that proving rail ended all corridor congestion.",
-        "The passage supports the idea that ignoring the counterclaim completely.",
-        "The passage supports the idea that arguing buses and trains serve identical riders with no change."
+        "proving rail ended all corridor congestion far beyond the narrower point that fits the question.",
+        "ignoring the counterclaim completely, treated as a universal rule rather than a limited claim.",
+        "arguing buses and trains serve identical riders with no change in every related setting, with no exceptions."
       ],
       "correct": 0,
       "explanation": "Lower bus ridership after rail suggests some travelers switched modes instead of doubling trips."
@@ -5609,9 +5609,9 @@
       "stem": "The comparison mainly warns that",
       "choices": [
         "skipping oral histories loses future proof the way discarding receipts loses transaction records.",
-        "The passage supports the idea that museums should destroy all tapes immediately.",
-        "The passage supports the idea that receipts are more interesting than human voices.",
-        "The passage supports the idea that cataloging is effortless and requires no planning."
+        "museums should destroy all tapes immediately regardless of local conditions or competing factors.",
+        "receipts are more interesting than human voices as the sole explanation for every similar outcome.",
+        "cataloging is effortless and requires no planning in every related setting, with no exceptions."
       ],
       "correct": 0,
       "explanation": "Throwing away receipts saves space but loses proof; skipping oral histories loses voices permanently."
@@ -5622,10 +5622,10 @@
       "passage": "Either the league publishes clear conduct rules for sideline parents or it keeps mediating the same shouting matches every Saturday. There is no third option where adults magically self-regulate without posted expectations.\n\nThe author predicts unchecked incidents will drive volunteer referees away, shrinking the league. Posted rules are presented as cheaper than endless mediation meetings after each game.\n\nVolunteer referees already threatened to quit after sideline incidents last season, the author notes. Posted conduct rules are cheaper than mediating the same shouting matches every Saturday without clear expectations.\n\nReferees threatened to quit after sideline incidents; posted rules are cheaper than mediating identical shouting matches each Saturday without expectations.\n\nReferees threatened to quit after repeated sideline shouting last season, shrinking leagues faster than any scoreboard policy. Posted conduct rules are framed as cheaper than mediating identical arguments every Saturday without clear expectations adults can cite.",
       "stem": "This argument structure is best described as",
       "choices": [
-        "The passage supports the idea that statistical proof that all parents behave perfectly.",
+        "statistical proof that all parents behave perfectly in every related setting, with no exceptions.",
         "false dilemma—either publish conduct rules or keep mediating the same conflicts.",
-        "The passage supports the idea that personal attack on every volunteer referee.",
-        "The passage supports the idea that definition of soccer with no policy claim."
+        "personal attack on every volunteer referee as the sole explanation for every similar outcome.",
+        "definition of soccer with no policy claim regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "The author presents only posted rules or endless mediation, rejecting a third option of self-regulation alone."
@@ -5636,10 +5636,10 @@
       "passage": "Critics call the vertical farm a gadget. Yet when grocery shelves emptied during the supply shock, its lettuce kept shipping to hospitals within the same metro area while truckloads from distant fields spoiled in parking lots.\n\nThe author concedes vertical farms cannot feed entire regions alone but argues reliability during shocks proves they are more than novelty. Spoiled distant truckloads function as contrasting evidence in the same crisis window.\n\nHospital greens kept shipping locally while distant truckloads spoiled in the same supply shock, the author emphasizes. Gadget labels ignore reliability when crises test which food systems actually deliver.\n\nLocal lettuce kept shipping to hospitals while distant truckloads spoiled in the same shock, showing reliability beyond gadget novelty labels.\n\nHospital salad deliveries continued from the metro vertical farm while distant truckloads spoiled in the same supply shock window. The author admits indoor farms cannot feed regions alone yet argues reliability during crises refutes dismissive gadget labels.",
       "stem": "The author counters the gadget label by",
       "choices": [
-        "The passage supports the idea that claiming vertical farms feed entire regions alone.",
+        "claiming vertical farms feed entire regions alone in every related setting, with no exceptions.",
         "contrasting local reliability during supply shocks with spoiled distant truckloads.",
-        "The passage supports the idea that denying any supply disruption occurred.",
-        "The passage supports the idea that mocking hospitals for buying lettuce."
+        "denying any supply disruption occurred as the sole explanation for every similar outcome.",
+        "mocking hospitals for buying lettuce regardless of local conditions or competing factors."
       ],
       "correct": 1,
       "explanation": "Local lettuce kept shipping to hospitals while distant truckloads spoiled, showing value beyond novelty."

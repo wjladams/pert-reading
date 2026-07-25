@@ -79,6 +79,16 @@
     return a;
   }
 
+  /** Shuffle A–D order so the keyed answer is not stuck in early slots. */
+  function withShuffledChoices(q) {
+    const order = shuffle([0, 1, 2, 3]);
+    return {
+      ...q,
+      choices: order.map((i) => q.choices[i]),
+      correct: order.indexOf(q.correct),
+    };
+  }
+
   function questionsForSkill(skillId) {
     return bank.questions.filter((q) => q.skill === skillId);
   }
@@ -175,6 +185,8 @@
       alert("No questions available for this mode yet.");
       return;
     }
+    // Fresh A–D order every time a set starts (and per item)
+    queue = queue.map(withShuffledChoices);
     session = {
       mode,
       skillId: skillId || null,
